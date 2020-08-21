@@ -1,1 +1,2 @@
 /admin.php
+/ads.txt
