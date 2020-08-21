@@ -10,3 +10,4 @@
 /myadmin/scripts/setup.php
 /phpmyadmin/scripts/setup.php
 /pma/scripts/setup.php
+/shell
