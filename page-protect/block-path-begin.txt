@@ -1,6 +1,8 @@
 /admin.php
+/admin/login.php
 /admindede/login.php
 /ads.txt
+/dede/login.php
 /dede/login.php
 /htadmin/login.php
 /manage/login.php
