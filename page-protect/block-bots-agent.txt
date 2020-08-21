@@ -1,0 +1,512 @@
+AASA-Bot
+AITCSRobot/1.1
+ASpider/0.09
+AURESYS/1.0
+AhrefsBot
+Alexibot
+Aqua_Products
+Arachnophilia
+BLEXBot
+BLEXBot
+BSpider/1.0 libwww-perl/0.40
+BackDoorBot
+BackDoorBot/1.0
+BackRub/.
+Baiduspider-video
+Barkrowler/0.9
+Big Brother
+BizBot04 kirk.overleaf.com
+Bizbot003
+Black Hole
+Black.Hole
+BlackWidow
+BlowFish
+BlowFish/1.0
+Bookmark search tool
+Bot mailto:craftbot@yahoo.com
+BotALot
+BotRightHere
+BuiltBotTough
+Bullseye
+Bullseye/1.0
+BunnySlippers
+CACTVS Chemistry Spider
+Cegbfeieh
+ChangeDetection
+Checkbot/x.xx LWP/5.x
+CheeseBot
+CherryPicker
+CherryPickerElite/1.0
+CherryPickerSE/1.0
+ChinaClaw
+Copernic
+CopyRightCheck
+Crescent
+Crescent Internet ToolPak HTTP OLE Control v.1.0
+Custo
+CyberPatrol SiteCat Webbot
+CyberSpyder/2.1
+DISCo
+DISCo Pump 3.0
+DISCo Pump 3.2
+DISCoFinder
+Daumoa
+Deweb/1.01
+DittoSpyder
+DotBot
+Download Demon
+Download Demon/3.2.0.8
+Download Demon/3.5.0.11
+EirGrabber
+EmailCollector
+EmailSiphon
+EmailWolf
+EnigmaBot
+EroCrawler
+Express WebPictures
+Express WebPictures (www.express-soft.com)
+ExtractorPro
+EyeNetIE
+FairAd Client
+FelixIDE/1.0
+Fish-Search-Robot
+Flaming AttackBot
+FlashGet
+FlashGet WebWasher 3.2
+Foobot
+Freecrawl
+FrontPage
+FrontPage [NC,OR]
+Gaisbot
+GetRight
+GetRight/2.11
+GetRight/3.1
+GetRight/3.2
+GetRight/3.3
+GetRight/3.3.3
+GetRight/3.3.4
+GetRight/4.0.0
+GetRight/4.1.0
+GetRight/4.1.1
+GetRight/4.1.2
+GetRight/4.2
+GetRight/4.2b (Portuguxeas)
+GetRight/4.2c
+GetRight/4.3
+GetRight/4.5
+GetRight/4.5a
+GetRight/4.5b
+GetRight/4.5b1
+GetRight/4.5b2
+GetRight/4.5b3
+GetRight/4.5b6
+GetRight/4.5b7
+GetRight/4.5c
+GetRight/4.5d
+GetRight/4.5e
+GetRight/5.0beta1
+GetRight/5.0beta2
+GetURL.rexx v1.05
+GetWeb!
+Gigabot
+Go!Zilla
+Go!Zilla (www.gozilla.com)
+Go!Zilla 3.3 (www.gozilla.com)
+Go!Zilla 3.5 (www.gozilla.com)
+Go-Ahead-Got-It
+Go-http-client/1.1
+Golem/1.1
+GrabNet
+Grafula
+Gromit/1.0
+HMView
+HTTrack
+HTTrack 3.0
+HTTrack [NC,OR]
+HappyFunBot
+Harvest
+Harvest/1.5
+Hatena Antenna
+HaxerMen
+Hazel's Ferret Web hopper
+Huaweisymantecspider
+Hâ€°mâ€°hâ€°kki/0.2
+INGRID/0.1
+ITI Spider
+Image Stripper
+Image Sucker
+IncyWincy/1.0b1
+Indy Library
+Indy Library [NC,OR]
+InfoNaviRobot
+Informant
+InterGET
+Internet Ninja
+Internet Ninja 4.0
+Internet Ninja 5.0
+Internet Ninja 6.0
+Iron33/1.0.2
+IsraeliSearch/1.0
+JOC Web Spider
+Java/11.0.6
+JennyBot
+JetCar
+JubiiRobot
+KIT-Fireball/2.0 libwww/5.0a
+KOCMOHABT
+Katipo/1.0
+Kenjin Spider
+Kenjin.Spider
+Keyword Density/0.9
+Keyword.Density
+LNSpiderguy
+LabelGrab/1.1
+LeechFTP
+LexiBot
+LinkScan/8.1a Unix
+LinkScan/8.1a.Unix
+LinkWalker
+LinkextractorPro
+METAGOPHER
+MIDown tool
+MIIxpc
+MIIxpc/4.2
+MJ12bot
+MOMspider/1.00 libwww-perl/0.40
+MSIECrawler
+Mass Downloader
+Mass Downloader/2.2
+Mata Hari
+Mata.Hari
+MauiBot
+MediaFox/x.y
+MerzScope
+Microsoft URL Control
+Microsoft URL Control - 5.01.4511
+Microsoft URL Control - 6.00.8169
+Microsoft.URL
+Mister PiX
+Mister PiX version.dll
+Mister Pix II 2.01
+Mister Pix II 2.02a
+Mister.PiX
+MixrankBot
+Motor/0.2
+NHSEWalker/3.0
+NICErsPRO
+NPbot
+Navroad
+NearSite
+Nekstbot
+NeoScioCrawler
+Net Vampire
+Net Vampire/3.0
+NetAnts
+NetAnts/1.10
+NetAnts/1.23
+NetAnts/1.24
+NetAnts/1.25
+NetCarta CyberPilot Pro
+NetMechanic
+NetScoop/1.0 libwww/5.0a
+NetSpider
+NetZIP
+NetZip Downloader 1.0 Win32(Nov 12 1998)
+NetZip-Downloader/1.0.62 (Win32; Dec 7 1998)
+NetZippy+(http://www.innerprise.net/usp-spider.asp)
+Nikto
+Nimbostratus-Bot
+Nimbostratus-Bot
+Nomad-V2.x
+Nutch
+OGspider
+Occam/1.0
+Octopus
+Offline Explorer
+Offline Explorer/1.2
+Offline Explorer/1.4
+Offline Explorer/1.6
+Offline Explorer/1.7
+Offline Explorer/1.9
+Offline Explorer/2.0
+Offline Explorer/2.1
+Offline Explorer/2.3
+Offline Explorer/2.4
+Offline Explorer/2.5
+Offline Navigator
+Offline.Explorer
+Open Text Site Crawler V1.0
+OpenVAS-VT 9.0.3
+Openbot
+Openfind
+Openfind data gatherer
+Oracle Ultra Search
+PGP-KA/1.2
+PageGrabber
+Papa Foto
+PerMan
+PetalBot
+PetalBot
+PetalBot
+Pinterestbot
+ProPowerBot/2.14
+ProWebWalker
+Python-urllib
+QueryN Metasearch
+QueryN.Metasearch
+R6_CommentReader
+R6_FeedFetcher
+RMA
+Radiation Retriever 1.1
+ReGet
+RealDownload
+RealDownload/4.0.0.40
+RealDownload/4.0.0.41
+RealDownload/4.0.0.42
+RepoMonkey
+RepoMonkey Bait & Tackle/v1.01
+Resume Robot
+Roverbot
+SafetyNet Robot 0.1
+Seekport Crawler
+SemrushBot
+Senrigan/xxxxxx
+SeznamBot
+SiteSnagger
+Slackbot-LinkExpanding
+SlySearch
+SmartDownload
+SmartDownload/1.2.76 (Win32; Apr 1 1999)
+SmartDownload/1.2.77 (Win32; Aug 17 1999)
+SmartDownload/1.2.77 (Win32; Feb 1 2000)
+SmartDownload/1.2.77 (Win32; Jun 19 2001)
+Snooper/b97_01
+Solbot/1.0 LWP/5.07
+SpankBot
+Spanner/1.0 (Linux 2.0.27 i586)
+Sqworm/2.9.85-BETA (beta_release; 20011115-775; i686-pc-linux
+SuperBot
+SuperBot/3.0 (Win32)
+SuperBot/3.1 (Win32)
+SuperHTTP
+SuperHTTP/1.0
+Surfbot
+Szukacz/1.4
+Teleport
+Teleport Pro
+Teleport Pro/1.29
+Teleport Pro/1.29.1590
+Teleport Pro/1.29.1634
+Teleport Pro/1.29.1718
+Teleport Pro/1.29.1820
+Teleport Pro/1.29.1847
+TeleportPro
+Telesoft
+The Intraformant
+The.Intraformant
+TheNomad
+TightTwatBot
+Titan
+True_Robot
+True_Robot/1.0
+TurnitinBot
+UCSD-Crawler
+URL Control
+URLSpiderPro
+URLy Warning
+URLy.Warning
+UnisterBot
+UnwindFetchor/1.0
+UptimeRobot
+VCI
+VCI WebViewer VCI WebViewer Win32
+Valkyrie/1.0 libwww-perl/0.40
+VoidEYE
+WWW Collector
+WWW-Collector-E
+WWWOFFLE
+WWWWanderer v3.0
+Web Image Collector
+Web Sucker
+Web.Image.Collector
+WebAuto
+WebAuto/3.40 (Win98; I)
+WebBandit
+WebBandit/3.50
+WebCapture 2.0
+WebCopier
+WebCopier v.2.2
+WebCopier v2.5
+WebCopier v2.6
+WebCopier v2.7a
+WebCopier v2.8
+WebCopier v3.0
+WebCopier v3.0.1
+WebCopier v3.2
+WebCopier v3.2a
+WebCopy/
+WebCrawler/3.0 Robot libwww/5.0a
+WebEMailExtrac.*
+WebEnhancer
+WebFerret
+WebFetch
+WebFetcher/0.8,
+WebGo IS
+WebLeacher
+WebLinker/0.0 libwww-perl/0.1
+WebMoose/0.0.0000
+WebReaper
+WebReaper [info@webreaper.net]
+WebReaper [webreaper@otway.com]
+WebReaper v9.1 - www.otway.com/webreaper
+WebReaper v9.7 - www.webreaper.net
+WebReaper v9.8 - www.webreaper.net
+WebReaper vWebReaper v7.3 - www,otway.com/webreaper
+WebSauger
+WebSauger 1.20b
+WebSauger 1.20j
+WebSauger 1.20k
+WebStripper
+WebStripper/2.03
+WebStripper/2.10
+WebStripper/2.12
+WebStripper/2.13
+WebStripper/2.15
+WebStripper/2.16
+WebStripper/2.19
+WebVac
+WebWalker
+WebWalker/1.10
+WebWatch
+WebWhacker
+WebZIP
+WebZIP/2.75 (http://www.spidersoft.com)
+WebZIP/3.65 (http://www.spidersoft.com)
+WebZIP/3.80 (http://www.spidersoft.com)
+WebZIP/4.0 (http://www.spidersoft.com)
+WebZIP/4.1 (http://www.spidersoft.com)
+WebZIP/4.21
+WebZIP/4.21 (http://www.spidersoft.com)
+WebZIP/5.0
+WebZIP/5.0 (http://www.spidersoft.com)
+WebZIP/5.0 PR1 (http://www.spidersoft.com)
+WebZip/4.0
+WebmasterWorld Extractor
+WebmasterWorldForumBot
+Website Quester
+Website Quester - www.asona.org
+Website Quester - www.esalesbiz.com/extra/
+Website eXtractor
+Website.Quester
+Webster Pro
+Webster.Pro
+Wget
+Wget/1.4.0
+Wget/1.5.2
+Wget/1.5.3
+Wget/1.6
+Wget/1.7
+Wget/1.8
+Wget/1.8.1
+Wget/1.8.1+cvs
+Wget/1.8.2
+Wget/1.9-beta
+WhoWhere Robot
+Widow
+XGET/0.7
+Xaldon WebSpider
+Xaldon WebSpider 2.5.b3
+Xaldon_WebSpider
+Xenu's
+Xenu's Link Sleuth 1.1c
+YandexBot
+Yasaklibot
+YesupBot
+Yeti
+YioopBot
+Zeus
+Zeus 11389 Webster Pro V2.9 Win32
+Zeus 11652 Webster Pro V2.9 Win32
+Zeus 18018 Webster Pro V2.9 Win32
+Zeus 26378 Webster Pro V2.9 Win32
+Zeus 30747 Webster Pro V2.9 Win32
+Zeus 32297 Webster Pro V2.9 Win32
+Zeus 39206 Webster Pro V2.9 Win32
+Zeus 41641 Webster Pro V2.9 Win32
+Zeus 44238 Webster Pro V2.9 Win32
+Zeus 51070 Webster Pro V2.9 Win32
+Zeus 51674 Webster Pro V2.9 Win32
+Zeus 51837 Webster Pro V2.9 Win32
+Zeus 63567 Webster Pro V2.9 Win32
+Zeus 6694 Webster Pro V2.9 Win32
+Zeus 82016 Webster Pro V2.9 Win32
+Zeus 82900 Webster Pro V2.9 Win32
+Zeus 84842 Webster Pro V2.9 Win32
+Zeus 90872 Webster Pro V2.9 Win32
+Zeus 94934 Webster Pro V2.9 Win32
+Zeus 95245 Webster Pro V2.9 Win32
+Zeus 95351 Webster Pro V2.9 Win32
+Zeus 97371 Webster Pro V2.9 Win32
+Zeus Link Scout
+ZoominfoBot
+ZyBorg
+^Wget
+^curl
+asterias
+b2w/0.1
+combine/0.0
+conceptbot/0.3
+cosmos
+dumbot
+eCatch
+eCatch/3.0
+es
+explorersearch
+fido/0.9 Harvest/1.4.pl2
+gcreep/1.0
+grub
+hloader
+httplib
+humanlinks
+inagist.com url crawler
+jumpstation
+larbin
+larbin (samualt9@bigfoot.com)
+larbin samualt9@bigfoot.com
+larbin_2.6.2 (kabura@sushi.com)
+larbin_2.6.2 (larbin2.6.2@unspecified.mail)
+larbin_2.6.2 (listonATccDOTgatechDOTedu)
+larbin_2.6.2 (vitalbox1@hotmail.com)
+larbin_2.6.2 kabura@sushi.com
+larbin_2.6.2 larbin2.6.2@unspecified.mail
+larbin_2.6.2 larbin@correa.org
+larbin_2.6.2 listonATccDOTgatechDOTedu
+larbin_2.6.2 vitalbox1@hotmail.com
+libWeb/clsHTTP
+linklooker
+lwp-trivial
+lwp-trivial/1.34
+moget
+moget/2.1
+naver
+pavuk
+pcBrowser
+psbot
+searchpreview
+sootle
+spanner
+spyder3.microsys.com
+suzuran
+tAkeOut
+toCrawl/UrlDispatcher
+turingos
+urlck/1.2.3
+vBSEO
+webfetch/2.1.0
+weblayers/0.0
+webs@recruit.co.jp
+webvac/1.0
+webwalk
+wget
+wired-digital-newsbot/1.5
+www.freeloader.com.
