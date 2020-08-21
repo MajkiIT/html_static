@@ -4,6 +4,7 @@
 /ads.txt
 /dede/login.php
 /dede/login.php
+/GponForm/
 /htadmin/login.php
 /manage/login.php
 /manager/login.php
