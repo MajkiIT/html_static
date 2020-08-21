@@ -1,2 +1,10 @@
 /admin.php
+/admindede/login.php
 /ads.txt
+/dede/login.php
+/htadmin/login.php
+/manage/login.php
+/manager/login.php
+/myadmin/scripts/setup.php
+/phpmyadmin/scripts/setup.php
+/pma/scripts/setup.php
