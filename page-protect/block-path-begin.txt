@@ -1,6 +1,4 @@
 /.env
-/admin.php
-/admin/login.php
 /admindede/login.php
 /ads.txt
 /dede/login.php
