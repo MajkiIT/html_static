@@ -45,7 +45,6 @@
 /phpversion.php
 /pinfo.php
 /pinfo.php
-/settings.php
 /solr/
 /solr/admin/
 /test.php
