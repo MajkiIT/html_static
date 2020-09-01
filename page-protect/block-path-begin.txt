@@ -13,3 +13,4 @@
 /pma/index.php
 /shell
 /phpMyAdmin/
+/wp-content/plugins/ioptimization/
