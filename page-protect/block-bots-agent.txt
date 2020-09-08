@@ -451,8 +451,6 @@ Zeus Link Scout
 ZoominfoBot
 ZyBorg
 ^Wget
-^curl
-curl
 asterias
 b2w/0.1
 combine/0.0
