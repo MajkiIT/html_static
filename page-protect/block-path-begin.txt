@@ -14,3 +14,4 @@
 /shell
 /phpMyAdmin/
 /wp-content/plugins/ioptimization/
+/wp/wp-admin/
