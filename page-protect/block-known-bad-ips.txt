@@ -1,0 +1,7 @@
+#https://www.wordfence.com/blog/2020/09/700000-wordpress-users-affected-by-zero-day-vulnerability-in-file-manager-plugin/
+185.222.57.183
+185.81.157.132
+185.81.157.112
+185.222.57.93
+185.81.157.177
+185.81.157.133
