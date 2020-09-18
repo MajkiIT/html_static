@@ -57,3 +57,4 @@
 /wp-login.php
 /xmlrpc.php
 /~root/
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
