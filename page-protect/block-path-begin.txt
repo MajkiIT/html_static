@@ -15,3 +15,14 @@
 /phpMyAdmin/
 /wp-content/plugins/ioptimization/
 /wp/wp-admin/
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php
+/wp/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 
+/wp/wp-content/plugins/ioptimization/IOptimize.php
+/old/wp-content/plugins/ioptimization/IOptimize.php
+/old/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/new/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 
+/blog/wp-content/plugins/ioptimization/IOptimize.php
+/new/wp-content/plugins/ioptimization/IOptimize.php
+/blog/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/test/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
