@@ -58,3 +58,4 @@
 /xmlrpc.php
 /~root/
 /wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/wp-content/plugins/ioptimization/IOptimize.php
