@@ -10,6 +10,7 @@
 /manage/login.php
 /manager/login.php
 /myadmin/scripts/setup.php
+/old/wp-admin/ HT
 /new/wp-content/plugins/ioptimization/IOptimize.php
 /new/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 
 /old/wp-content/plugins/ioptimization/IOptimize.php
