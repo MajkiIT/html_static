@@ -32,6 +32,7 @@ Bullseye
 Bullseye/1.0
 BunnySlippers
 CACTVS Chemistry Spider
+CCBot/2.0 (https://commoncrawl.org/faq/
 Cegbfeieh
 ChangeDetection
 Checkbot/x.xx LWP/5.x
