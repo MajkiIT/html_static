@@ -192,6 +192,7 @@ Mister PiX version.dll
 Mister Pix II 2.01
 Mister Pix II 2.02a
 Mister.PiX
+MixnodeCache/1.8(+https://cache.mixnode.com/)
 MixrankBot
 Motor/0.2
 NHSEWalker/3.0
