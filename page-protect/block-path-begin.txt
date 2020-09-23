@@ -3,6 +3,7 @@
 /GponForm/
 /admindede/login.php
 /ads.txt
+/backup/
 /blog/wp-content/plugins/ioptimization/IOptimize.php
 /blog/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /dede/login.php
