@@ -267,6 +267,7 @@ RealDownload/4.0.0.42
 RepoMonkey
 RepoMonkey Bait & Tackle/v1.01
 Resume Robot
+Riddler (http://riddler.io/about)
 Roverbot
 SafetyNet Robot 0.1
 Seekport Crawler
