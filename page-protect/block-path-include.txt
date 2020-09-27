@@ -47,6 +47,7 @@
 /pinfo.php
 /solr/
 /solr/admin/
+/Telerik.Web.UI.DialogHandler.aspx
 /test.php
 /thinkphp/
 /web_shell_cmd
