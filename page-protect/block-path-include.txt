@@ -20,6 +20,7 @@
 /administrator/
 /apple-app-site-association
 /asdf.php
+/bitcoin
 /cdn-cgi/
 /cgi-bin/
 /cgi-bin/
@@ -50,6 +51,7 @@
 /Telerik.Web.UI.DialogHandler.aspx
 /test.php
 /thinkphp/
+/wallet.dat
 /web_shell_cmd
 /wlwmanifest.xml
 /wordpress/
