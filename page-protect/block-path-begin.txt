@@ -24,6 +24,7 @@
 /phpmyadmin/scripts/setup.php
 /pma/index.php
 /pma/scripts/setup.php
+/sad.php
 /shell
 /test/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /wp-content/plugins/ioptimization/
