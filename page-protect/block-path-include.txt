@@ -57,7 +57,6 @@
 /wordpress/
 /wp-admin/install.php
 /wp-config.php
-/wp-login.php
 /xmlrpc.php
 /~root/
 /wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
