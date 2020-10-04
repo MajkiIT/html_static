@@ -4,6 +4,7 @@
 /.git-credentials
 /.git/
 /.gitignore
+/.htaccess
 /.sqlite_history
 /.ssh/
 /.svn/
