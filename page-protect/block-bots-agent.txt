@@ -271,6 +271,7 @@ Riddler (http://riddler.io/about)
 Roverbot
 SafetyNet Robot 0.1
 Seekport Crawler
+SemanticScholarBot
 SemrushBot
 Senrigan/xxxxxx
 SeznamBot
