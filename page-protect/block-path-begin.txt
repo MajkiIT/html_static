@@ -33,3 +33,4 @@
 /wp/wp-admin/
 /wp/wp-content/plugins/ioptimization/IOptimize.php
 /wp/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
