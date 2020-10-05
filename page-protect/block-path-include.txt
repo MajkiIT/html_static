@@ -1,5 +1,6 @@
 /.aws/
 /.bash_history
+/.env
 /.git
 /.git-credentials
 /.git/
