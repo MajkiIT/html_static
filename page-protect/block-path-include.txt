@@ -69,7 +69,6 @@
 /wallet.dat
 /web_shell_cmd
 /wlwmanifest.xml
-/wordpress/
 /wp-admin/install.php
 /wp-config.php
 /wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
