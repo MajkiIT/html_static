@@ -8,6 +8,7 @@
 /backup/
 /blog/wp-content/plugins/ioptimization/IOptimize.php
 /blog/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/CHANGELOG.txt
 /core/CHANGELOG.txt
 /dede/login.php
 /htadmin/login.php
