@@ -176,6 +176,7 @@ Flocke bot
 FollowSite Bot
 Foobot
 Fooooo_Web_Video_Crawl
+Foregenix Web Scan 1.100000
 Freecrawl
 FrontPage
 FrontPage [NC,OR]
