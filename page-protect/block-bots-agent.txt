@@ -177,6 +177,7 @@ FollowSite Bot
 Foobot
 Fooooo_Web_Video_Crawl
 Foregenix Web Scan 1.100000
+Foregenix Web Scan 1.100000 (www.foregenix.com/scan)
 Freecrawl
 FrontPage
 FrontPage [NC,OR]
