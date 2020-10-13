@@ -563,6 +563,7 @@ SuperBot/3.0 (Win32)
 SuperBot/3.1 (Win32)
 SuperHTTP
 SuperHTTP/1.0
+SurdotlyBot/1.0
 Surfbot
 Surphace Scout
 SurveyBot
