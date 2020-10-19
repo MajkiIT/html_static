@@ -9,7 +9,10 @@
 /blog/wp-content/plugins/ioptimization/IOptimize.php
 /blog/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /CHANGELOG.txt
+/clientaccesspolicy.xml
 /core/CHANGELOG.txt
+/contribute.json
+/crossdomain.xml
 /dede/login.php
 /htadmin/login.php
 /magento_version
