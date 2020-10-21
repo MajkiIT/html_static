@@ -16,6 +16,7 @@
 /.ssh/id_rsa
 /.svn/
 /.svn/wc.db
+/.well-known/acme-challenge/
 /CHANGES
 /GponForm/
 /README
