@@ -16,7 +16,6 @@
 /.ssh/id_rsa
 /.svn/
 /.svn/wc.db
-/.well-known/
 /CHANGES
 /GponForm/
 /README
