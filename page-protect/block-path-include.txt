@@ -26,7 +26,6 @@
 /adminer.php
 /administrator.cgi
 /administrator/
-/apple-app-site-association
 /asdf.php
 /bitcoin
 /cdn-cgi/
