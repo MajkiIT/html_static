@@ -35,6 +35,7 @@
 /cgi-sys/
 /cgi_wrapper
 /config/getuser
+/deployment-config.json
 /dump.sql
 /id_dsa
 /id_dsa.pub
