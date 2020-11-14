@@ -4,6 +4,7 @@
 /GponForm/
 /INSTALL.txt
 /RELEASE_NOTES.txt
+/data/admin/allowurl.txt
 /admindede/login.php
 /ads.txt
 /backup/
