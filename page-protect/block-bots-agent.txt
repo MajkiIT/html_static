@@ -155,7 +155,6 @@ Express WebPictures (www.express-soft.com)
 ExtractorPro
 EyeNetIE
 Ezooms
-FacebookExternalHit
 FairAd Client
 FairShare
 Falconsbot
@@ -320,7 +319,6 @@ LinkAider
 LinkScan/8.1a Unix
 LinkScan/8.1a.Unix
 LinkWalker
-LinkedInBot
 LinkextractorPro
 Lipperhey Spider
 LoadImpactPageAnalyzer
@@ -838,7 +836,6 @@ emefgebot
 envolk
 es
 explorersearch
-facebookplatform
 factbot
 fastbot crawler
 fido/0.9 Harvest/1.4.pl2
