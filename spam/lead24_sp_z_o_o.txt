@@ -1,4 +1,5 @@
 afae.jgora.pl[51.83.218.90]
+aflap.zarow.pl
 ahataro.zarow.pl[51.83.218.73]
 akctac.zagan.pl[51.83.218.82]
 akmarn.sejny.pl[51.83.218.71]
@@ -24,6 +25,7 @@ hatarads.sejny.pl[51.83.218.86]
 havatn.sejny.pl[51.83.218.122]
 kansar.zagan.pl[51.83.215.119]
 karmna.zgora.pl[51.83.218.113]
+kluorep.tgory.pl
 kompleksowepozycjonowaniesklepu.pisz.pl[51.77.46.143]
 kompleksowepozycjonowanie.zarow.pl[51.77.46.144]
 konkatybiznesowe.jgora.pl[51.83.183.139]
@@ -39,15 +41,18 @@ mikwsaq.zarow.pl[51.83.218.88]
 nakta.pisz.pl[51.83.218.80]
 niteat.jgora.pl[51.83.218.72]
 okamas.zagan.pl[51.83.215.110]
+palzax.com.pl
 pakma.sejny.pl[51.83.215.112]
 pamop.naklo.pl[51.83.218.77]
 paptea.sejny.pl[51.83.215.122]
+piawert.pl
 pitetat.zagan.pl[51.83.218.112]
 pozycjonowanie-stroninternetowych.zagan.pl[51.77.46.153]
 pozycjonowanieszerokie.pisz.pl[51.77.46.168]
 pozycjonowaniewitryninternetowych.pisz.pl[51.38.159.154]
 profesjonalne-pozycjonowaniewww.naklo.pl[51.38.159.147]
 reklama-dlafirm.lapy.pl[51.38.150.233]
+rogob.pisz.pl
 sarakma.zgora.pl[51.83.215.121]
 sasate.zagan.pl[51.83.218.40]
 scara.naklo.pl[51.83.218.125]
@@ -168,5 +173,6 @@ tyzanta.com.pl
 warmleadsdlaciebie.naklo.pl[51.83.183.133]
 warmleads.jgora.pl[51.68.134.170]
 waztpa.zgora.pl[51.83.218.41]
+wialona.com.pl
 xamatn.tgory.pl[51.83.218.78]
 zaistniejwsieci-pozycjonowanie.lapy.pl[51.38.159.130]
