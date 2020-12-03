@@ -164,6 +164,7 @@ tefatean.zgora.pl[51.83.218.84]
 tenct.tgory.pl[51.83.218.118]
 tepmkmar.zgora.pl[51.83.218.97]
 tinakta.zagan.pl[51.83.218.66]
+tyzanta.com.pl
 warmleadsdlaciebie.naklo.pl[51.83.183.133]
 warmleads.jgora.pl[51.68.134.170]
 waztpa.zgora.pl[51.83.218.41]
