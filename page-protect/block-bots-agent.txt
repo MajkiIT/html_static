@@ -949,3 +949,4 @@ wscheck.com
 www.freeloader.com.
 x28-job-bot
 yacybot
+Nikto/2.1.6
