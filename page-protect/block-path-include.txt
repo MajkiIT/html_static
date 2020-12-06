@@ -77,4 +77,3 @@
 /xmlrpc.php
 /~root/
 /etc/
-....//
