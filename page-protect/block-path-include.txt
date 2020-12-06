@@ -76,3 +76,4 @@
 /wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /xmlrpc.php
 /~root/
+/etc/
