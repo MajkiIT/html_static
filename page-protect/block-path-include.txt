@@ -83,3 +83,4 @@
 /xmlrpc.php
 /~root/
 /etc/
+/TRADEMARK.txt
