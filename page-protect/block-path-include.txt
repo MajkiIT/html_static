@@ -35,6 +35,7 @@
 /cgi-sys/
 /cgi_wrapper
 /wp-config-sample.php
+/config-dist.php
 /config/getuser
 /CONTRIBUTING.txt
 /COPYING.txt
