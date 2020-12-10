@@ -7,6 +7,7 @@
 /data/admin/allowurl.txt
 /admindede/login.php
 /ads.txt
+/app-ads.txt
 /backup/
 /bak/
 /bk/
