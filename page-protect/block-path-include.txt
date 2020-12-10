@@ -58,6 +58,7 @@
 /php_info.php
 /phpunit/Util/PHP/eval-stdin.php
 /phpunit/phpunit/Util/PHP/eval-stdin.php
+/phpunit.xml.dist
 /phpversion.php
 /pinfo.php
 /PULL_REQUEST_TEMPLATE.txt
