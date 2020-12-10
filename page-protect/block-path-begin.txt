@@ -13,6 +13,7 @@
 /bk/
 /blog/wp-content/plugins/ioptimization/IOptimize.php
 /blog/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/check-card-number?item=NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN
 /clientaccesspolicy.xml
 /config.php
 /contribute.json
