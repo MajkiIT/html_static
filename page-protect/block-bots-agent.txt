@@ -50,6 +50,7 @@ Baiduspider-video
 Barkrowler/0.9
 BegunAdvertising
 Big Brother
+bidswitchbot/1.0
 BizBot04 kirk.overleaf.com
 Bizbot003
 Black Hole
