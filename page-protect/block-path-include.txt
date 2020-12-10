@@ -34,7 +34,10 @@
 /cgi-mod/
 /cgi-sys/
 /cgi_wrapper
+/wp-config-sample.php
 /config/getuser
+/CONTRIBUTING.txt
+/COPYING.txt
 /deployment-config.json
 /dump.sql
 /id_dsa
@@ -56,6 +59,7 @@
 /phpunit/phpunit/Util/PHP/eval-stdin.php
 /phpversion.php
 /pinfo.php
+/PULL_REQUEST_TEMPLATE.txt
 /solr/
 /solr/admin/
 /test.php
