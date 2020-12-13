@@ -33,7 +33,7 @@
 /new-site/
 /new/
 /new/wp-content/plugins/ioptimization/IOptimize.php
-/new/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 
+/new/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /old-site/
 /old-wp/
 /old/
@@ -58,5 +58,6 @@
 /wp/wp-admin/
 /wp/wp-content/plugins/ioptimization/IOptimize.php
 /wp/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/wp-content/plugins/background-image-cropper/content-post.php
 /wp1/
 /wp2/
