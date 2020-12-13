@@ -1,1 +1,7 @@
+.backup
+.bak
+.bkf
+.bkp
+.old
+.old
 .sql
