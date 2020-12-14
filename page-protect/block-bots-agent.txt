@@ -256,6 +256,7 @@ HuaweiSymantecSpider
 Huaweisymantecspider
 HubSpot Connect
 Hâ€°mâ€°hâ€°kki/0.2
+http://google.com
 ICC-Crawler
 INGRID/0.1
 ITI Spider
