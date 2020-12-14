@@ -4,7 +4,6 @@
 /GponForm/
 /INSTALL.txt
 /RELEASE_NOTES.txt
-/data/admin/allowurl.txt
 /admindede/login.php
 /ads.txt
 /app-ads.txt
@@ -20,9 +19,12 @@
 /contribute.json
 /core/CHANGELOG.txt
 /crossdomain.xml
+/data/admin/allowurl.txt
+/debug.log
 /dede/login.php
 /demo/
 /dev/
+/gulpfile.js
 /home/
 /htadmin/login.php
 /install/
@@ -40,6 +42,8 @@
 /old/wp-admin/
 /old/wp-content/plugins/ioptimization/IOptimize.php
 /old/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/package-lock.json
+/package.json
 /phpMyAdmin/
 /phpmyadmin/scripts/setup.php
 /pma/index.php
@@ -52,12 +56,12 @@
 /test/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /tmp/
 /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/plugins/background-image-cropper/content-post.php
 /wp-content/plugins/ioptimization/
 /wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php
 /wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /wp/wp-admin/
 /wp/wp-content/plugins/ioptimization/IOptimize.php
 /wp/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
-/wp-content/plugins/background-image-cropper/content-post.php
 /wp1/
 /wp2/
