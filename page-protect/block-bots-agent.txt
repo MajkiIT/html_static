@@ -19,6 +19,7 @@ Accelobot
 AcoonBot
 AddThis.com
 Adminotaur-monitoring
+Adsbot/3.1
 AhrefsBot
 Alexabot
 Alexibot
@@ -509,6 +510,7 @@ SSLBot
 STINGbot
 SWEBot
 SafetyNet Robot 0.1
+SAP Jam
 SanszBot
 Scarlett
 Scooter
