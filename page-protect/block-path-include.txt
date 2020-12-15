@@ -44,6 +44,7 @@
 /COPYING.txt
 /deployment-config.json
 /dump.sql
+/gank.php.PhP
 /id_dsa
 /id_dsa.pub
 /id_dss
