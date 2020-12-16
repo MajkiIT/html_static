@@ -516,6 +516,7 @@ Scarlett
 Scooter
 ScoutJet
 ScreenerBot Crawler
+Screaming Frog SEO Spider/13.2
 Search17Bot
 SearchmetricsBot
 SecurityResearchBot
