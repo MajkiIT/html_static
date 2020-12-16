@@ -7,6 +7,7 @@
 /admindede/login.php
 /ads.txt
 /app-ads.txt
+/atom.xm
 /backup/
 /bak/
 /bk/
@@ -24,9 +25,15 @@
 /dede/login.php
 /demo/
 /dev/
+/feed/
+/feeds/
 /gulpfile.js
 /home/
 /htadmin/login.php
+/index.atom
+/index.rdf
+/index.rss
+/index.xml
 /install/
 /magento_version
 /manage/login.php
@@ -48,6 +55,7 @@
 /phpmyadmin/scripts/setup.php
 /pma/index.php
 /pma/scripts/setup.php
+/rss.xml
 /sad.php
 /shell
 /site/
