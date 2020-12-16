@@ -18,3 +18,6 @@
 #
 # https://www.virustotal.com/graph/185.172.148.96
 185.172.148.96
+#
+# https://www.abuseipdb.com/check/93.158.90.134
+93.158.90.134
