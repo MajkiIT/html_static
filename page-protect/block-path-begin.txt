@@ -68,6 +68,7 @@
 /wp-content/plugins/ioptimization/
 /wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php
 /wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/
 /wp/wp-admin/
 /wp/wp-content/plugins/ioptimization/IOptimize.php
 /wp/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
