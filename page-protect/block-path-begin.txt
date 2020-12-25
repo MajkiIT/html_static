@@ -49,6 +49,7 @@
 /old/wp-admin/
 /old/wp-content/plugins/ioptimization/IOptimize.php
 /old/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/Orion/
 /package-lock.json
 /package.json
 /phpMyAdmin/
