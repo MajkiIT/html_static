@@ -1,4 +1,9 @@
-# version 20201225
+#202012251311
+# Web Application - block bad IPs from logs /last 90 days/
+# Homepage: https://www.certyficate.it/
+# Contact: errorsfilters@certyficate.it 
+# License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+# Copyright (C) 2020 Certyficate IT
 #
 # added 20201225/2224
 163.172.231.201
