@@ -59,7 +59,7 @@
 /config-dist.php
 /config/getuser
 /dataSource.xml
-/dataSources. xml
+/dataSources.xml
 /dataSources.ids
 /dataSources.local.xml
 /database.yml
