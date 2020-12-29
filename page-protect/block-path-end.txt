@@ -1,4 +1,4 @@
-#202012251311
+#202012292046
 # Web Application - block path end in url
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
@@ -6,11 +6,19 @@
 # Copyright (C) 2020 Certyficate IT
 #
 #
+.aspx
 .backup
 .bak
 .bkf
 .bkp
+.log
 .old
-.old
+.orig
+.original
+.php#
+.php_bak
+.php~
+.save
 .sql
-.aspx
+.swo
+.swp
