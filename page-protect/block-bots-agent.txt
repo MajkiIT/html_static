@@ -1,4 +1,4 @@
-#202012290812
+#202012290818
 # Web Application - block bad agent and bots
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
@@ -59,7 +59,6 @@ Baiduspider-video
 Barkrowler/0.9
 BegunAdvertising
 Big Brother
-bidswitchbot/1.0
 BizBot04 kirk.overleaf.com
 Bizbot003
 Black Hole
@@ -265,7 +264,6 @@ HuaweiSymantecSpider
 Huaweisymantecspider
 HubSpot Connect
 Hâ€°mâ€°hâ€°kki/0.2
-http://google.com
 ICC-Crawler
 INGRID/0.1
 ITI Spider
@@ -379,8 +377,8 @@ MnoGoSearch
 MojeekBot
 Motor/0.2
 Motoricerca-Robots.txt-Checker
-Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) WhatCMS/1.0
+Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)
 Mp3Bot
 NHSEWalker/3.0
 NICErsPRO
@@ -416,6 +414,7 @@ Netseer
 NextGenSearchBot
 Nigma.ru
 Nikto
+Nikto/2.1.6
 Nimbostratus-Bot
 Nomad-V2.x
 Nuhk
@@ -508,23 +507,24 @@ Roverbot
 Ruky-Roboter
 RyzeCrawler
 SAI Crawler
+SAP Jam
 SBIder
 SBSearch
 SEODat
 SEOENGBot
 SEOkicks-Robot
+SMTBot/1.0
 SSL-Crawler
 SSLBot
 STINGbot
 SWEBot
 SafetyNet Robot 0.1
-SAP Jam
 SanszBot
 Scarlett
 Scooter
 ScoutJet
-ScreenerBot Crawler
 Screaming Frog SEO Spider/13.2
+ScreenerBot Crawler
 Search17Bot
 SearchmetricsBot
 SecurityResearchBot
@@ -554,7 +554,6 @@ SmartDownload/1.2.76 (Win32; Apr 1 1999)
 SmartDownload/1.2.77 (Win32; Aug 17 1999)
 SmartDownload/1.2.77 (Win32; Feb 1 2000)
 SmartDownload/1.2.77 (Win32; Jun 19 2001)
-SMTBot/1.0
 Snapbot
 SniffRSS
 Snooper/b97_01
@@ -820,6 +819,7 @@ asterias
 b2w/0.1
 backlink-check.de
 baypup
+bidswitchbot/1.0
 bingbot
 bitlybot
 biwec
@@ -862,6 +862,7 @@ grub
 hawkReader
 heritrix
 hloader
+http://google.com
 httplib
 humanlinks
 iCjobs
@@ -963,4 +964,3 @@ wscheck.com
 www.freeloader.com.
 x28-job-bot
 yacybot
-Nikto/2.1.6
