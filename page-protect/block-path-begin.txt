@@ -1,4 +1,4 @@
-#202012251311
+#202012292044
 # Web Application - block path begin in url
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
