@@ -1,4 +1,4 @@
-#202012251311
+#202012290812
 # Web Application - block bad agent and bots
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
@@ -554,6 +554,7 @@ SmartDownload/1.2.76 (Win32; Apr 1 1999)
 SmartDownload/1.2.77 (Win32; Aug 17 1999)
 SmartDownload/1.2.77 (Win32; Feb 1 2000)
 SmartDownload/1.2.77 (Win32; Jun 19 2001)
+SMTBot/1.0
 Snapbot
 SniffRSS
 Snooper/b97_01
