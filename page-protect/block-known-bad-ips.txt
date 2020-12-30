@@ -1,4 +1,4 @@
-#202012251311
+#202012302259
 # Web Application - block bad IPs - known 
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
@@ -46,3 +46,6 @@
 #
 # https://anti-hacker-alliance.com/index.php?ip=62.210.15.180
 62.210.15.231
+#
+# https://cleantalk.org/blacklists/54.203.73.198
+54.203.73.198
