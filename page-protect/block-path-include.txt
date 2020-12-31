@@ -1,4 +1,4 @@
-#202012251311
+#202012312035
 # Web Application - block path included in url
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
@@ -33,7 +33,6 @@
 /.svn/
 /.svn/wc.db
 /.well-known/acme-challenge/
-/.well-known/security.txt
 /CHANGES
 /CONTRIBUTING.txt
 /COPYING.txt
