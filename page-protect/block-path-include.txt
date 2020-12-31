@@ -33,6 +33,7 @@
 /.svn/
 /.svn/wc.db
 /.well-known/acme-challenge/
+/.well-known/security.txt
 /CHANGES
 /CONTRIBUTING.txt
 /COPYING.txt
