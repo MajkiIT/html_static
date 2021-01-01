@@ -1,9 +1,9 @@
-#202012302301
+#202101011919
 # Web Application - block bad IPs - known 
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
 # License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-# Copyright (C) 2020 Certyficate IT
+# Copyright (C) 2021 Certyficate IT
 #
 #
 #https://www.wordfence.com/blog/2020/09/700000-wordpress-users-affected-by-zero-day-vulnerability-in-file-manager-plugin/
