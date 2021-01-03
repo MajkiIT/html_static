@@ -1,9 +1,9 @@
-#202012290818
+#202101031808
 # Web Application - block bad agent and bots
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
 # License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-# Copyright (C) 2020 Certyficate IT
+# Copyright (C) 2021 Certyficate IT
 #
 #
 007AC9
@@ -520,6 +520,7 @@ STINGbot
 SWEBot
 SafetyNet Robot 0.1
 SanszBot
+Scrapy/2.3.0 (+https://scrapy.org)
 Scarlett
 Scooter
 ScoutJet
