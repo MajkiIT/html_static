@@ -1,9 +1,9 @@
-#202012312035
+#202101031539
 # Web Application - block path included in url
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
 # License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-# Copyright (C) 2020 Certyficate IT
+# Copyright (C) 2021 Certyficate IT
 #
 #
 /.DS_Store
@@ -56,15 +56,19 @@
 /cgi-mod/
 /cgi-sys/
 /cgi_wrapper
+/composer.json
+/composer.lock
+/composer.phar
 /config-dist.php
 /config/getuser
 /dataSource.xml
-/dataSources.xml
 /dataSources.ids
 /dataSources.local.xml
+/dataSources.xml
 /database.yml
 /dbnavigator.xml
 /deployment-config.json
+/docker-compose.yml
 /dump.sql
 /etc/
 /gank.php.PhP
@@ -80,6 +84,7 @@
 /lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 /manager/
 /myadmin/
+/package-lock.json
 /package.json
 /passwd/
 /php_info.php
@@ -91,6 +96,7 @@
 /solr/
 /solr/admin/
 /svn-repos/
+/symfony.lock
 /test.php
 /thinkphp/
 /vendor/phpunit/Util/PHP/eval-stdin.php
