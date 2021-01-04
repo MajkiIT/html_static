@@ -1,4 +1,4 @@
-#202101031808
+#202101040929
 # Web Application - block bad agent and bots
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
@@ -379,6 +379,7 @@ Motor/0.2
 Motoricerca-Robots.txt-Checker
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:66.0) WhatCMS/1.0
 Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)
+Mozilla/5.0 (compatible; evc-batch/2.0)
 Mp3Bot
 NHSEWalker/3.0
 NICErsPRO
