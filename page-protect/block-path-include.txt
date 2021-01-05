@@ -121,5 +121,3 @@
 /system.ini
 /wp-cron.php
 /author-sitemap.xml
-/wp-json/wp/v2/
-/wp-json/oembed/
