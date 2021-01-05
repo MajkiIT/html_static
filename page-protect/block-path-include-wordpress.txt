@@ -12,10 +12,7 @@
 /wp/
 /wp-cron.php
 /author-sitemap.xml
-/wp-signup.php
 /4693366.html
-/wp-admin/upgrade.php
-/wp-admin/load-styles.php
 /wp-links-opml.php
 /wp-sitemap-users-1.xml
 /wp-includes/rss-functions.php
