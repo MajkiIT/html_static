@@ -118,3 +118,4 @@
 /xmlrpc.php
 /~root/
 /password/
+system.ini
