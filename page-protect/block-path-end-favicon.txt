@@ -1,1 +1,4 @@
 /favicon-192x192.png
+/android-icon-192x192.png
+/favicon-16x16.png
+/ms-icon-144x144.png
