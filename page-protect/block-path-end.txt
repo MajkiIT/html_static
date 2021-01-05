@@ -23,3 +23,12 @@
 .swo
 .swp
 /upgrade.txt
+.sh
+.cgi
+/index.pl
+.cgi.php
+/welcome
+/status
+/php5
+.py
+/embed/
