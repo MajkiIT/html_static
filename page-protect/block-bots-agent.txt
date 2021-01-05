@@ -966,3 +966,4 @@ wscheck.com
 www.freeloader.com.
 x28-job-bot
 yacybot
+WPScan v3.8.10 (https://wpscan.org/)
