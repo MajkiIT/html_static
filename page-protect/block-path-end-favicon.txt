@@ -14,3 +14,4 @@
 /favicon-96x96.png
 /google017031688fe80f9f.html
 /ms-icon-144x144.png
+/apple-touch-icon-precomposed.png
