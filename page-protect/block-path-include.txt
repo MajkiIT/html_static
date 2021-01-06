@@ -122,3 +122,4 @@
 /wp-cron.php
 /author-sitemap.xml
 /(select
+waitfor
