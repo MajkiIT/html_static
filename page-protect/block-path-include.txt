@@ -123,3 +123,11 @@
 /author-sitemap.xml
 /(select
 waitfor
+/nslookup
+(select
+/index_old.php
+/index.php1
+/index.rar
+/index.zip
+/index_bak.php
+/index_bak
