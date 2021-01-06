@@ -33,3 +33,16 @@
 .py
 /embed/
 /win.ini
+.bac
+.bz2
+.tar.lzma
+.war
+.ear
+.phpinc
+.php.exe
+.php.ar
+.php.jar
+.php.xz
+.tar.7z
+.php.1
+.php.wim
