@@ -121,3 +121,4 @@
 /system.ini
 /wp-cron.php
 /author-sitemap.xml
+/(select
