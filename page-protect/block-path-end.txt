@@ -32,3 +32,4 @@
 /php5
 .py
 /embed/
+/win.ini
