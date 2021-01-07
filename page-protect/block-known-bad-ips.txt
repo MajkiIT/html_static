@@ -1,4 +1,4 @@
-#202101011919
+#202101070828
 # Web Application - block bad IPs - known 
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
@@ -55,3 +55,9 @@
 #
 # https://cleantalk.org/blacklists/168.119.55.44 - crawler https://www.crawlson.com/search?q=site:
 168.119.55.44
+#
+# https://www.abuseipdb.com/check/107.173.248.41
+107.173.248.41
+#
+# https://www.abuseipdb.com/check/172.245.230.157
+172.245.230.157
