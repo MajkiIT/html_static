@@ -131,3 +131,5 @@ waitfor
 /index.zip
 /index_bak.php
 /index_bak
+/wp-systems.php
+/ps.php
