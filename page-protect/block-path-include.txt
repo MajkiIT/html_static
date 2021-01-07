@@ -134,3 +134,4 @@ waitfor
 /wp-systems.php
 /ps.php
 /wp-json/wp/v2/users
+/wp-json/wp/v2/posts
