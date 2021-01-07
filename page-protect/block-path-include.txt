@@ -133,3 +133,4 @@ waitfor
 /index_bak
 /wp-systems.php
 /ps.php
+/wp-json/wp/v2/users
