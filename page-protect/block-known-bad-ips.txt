@@ -64,3 +64,6 @@
 #
 # https://www.abuseipdb.com/check/168.119.69.91
 168.119.69.91
+#
+# https://www.abuseipdb.com/check/129.146.84.192
+129.146.84.192
