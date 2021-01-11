@@ -70,3 +70,6 @@
 #
 # https://www.abuseipdb.com/check/150.136.152.118
 150.136.152.118
+#
+# https://www.abuseipdb.com/check/150.136.142.165
+150.136.142.165
