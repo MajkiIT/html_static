@@ -134,3 +134,6 @@ waitfor
 /wp-systems.php
 /ps.php
 /netsoltrademark.php
+/trace.axd
+/clientaccesspolicy.xml
+/crossdomain.xml
