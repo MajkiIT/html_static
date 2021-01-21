@@ -75,3 +75,6 @@
 #
 # https://www.abuseipdb.com/check/150.136.142.165
 150.136.142.165
+#
+# https://cleantalk.org/blacklists/62.210.215.117
+62.210.215.117
