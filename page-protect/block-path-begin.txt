@@ -79,7 +79,6 @@
 /old/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /package-lock.json
 /package.json
-/phpMyAdmin/
 /phpmyadmin/scripts/setup.php
 /phpunit.xml.dist
 /pma/index.php
