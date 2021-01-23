@@ -34,6 +34,7 @@
 /atom.xm
 /backup/
 /bak/
+/bitrix/
 /behat.yml.dist
 /bk/
 /blog/wp-content/plugins/ioptimization/IOptimize.php
