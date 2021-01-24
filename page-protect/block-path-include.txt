@@ -120,11 +120,7 @@
 /password/
 /system.ini
 /wp-cron.php
-/author-sitemap.xml
-/(select
-waitfor
 /nslookup
-(select
 /index_old.php
 /index.php1
 /index.rar
@@ -137,3 +133,4 @@ waitfor
 /trace.axd
 /clientaccesspolicy.xml
 /crossdomain.xml
+/wp-login.php
