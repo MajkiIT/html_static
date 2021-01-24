@@ -975,3 +975,4 @@ DuckDuckGo-Favicons-Bot/1.0
 Dispatch/0.14.0-SNAPSHOT
 LightspeedSystemsCrawler
 adscanner/
+Crawlson/1.0
