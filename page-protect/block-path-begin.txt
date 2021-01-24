@@ -34,8 +34,8 @@
 /atom.xm
 /backup/
 /bak/
-/bitrix/
 /behat.yml.dist
+/bitrix/
 /bk/
 /blog/wp-content/plugins/ioptimization/IOptimize.php
 /blog/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
@@ -103,4 +103,3 @@
 /wp/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /wp1/
 /wp2/
-/feed/
