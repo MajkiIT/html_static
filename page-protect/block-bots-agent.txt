@@ -974,3 +974,4 @@ DF Bot 1.0
 DuckDuckGo-Favicons-Bot/1.0
 Dispatch/0.14.0-SNAPSHOT
 LightspeedSystemsCrawler
+adscanner/
