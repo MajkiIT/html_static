@@ -103,3 +103,4 @@
 /wp/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /wp1/
 /wp2/
+/wp-login.php
