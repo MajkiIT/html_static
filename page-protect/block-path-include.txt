@@ -134,3 +134,4 @@
 /clientaccesspolicy.xml
 /crossdomain.xml
 /wp-login.php
+/_ignition/
