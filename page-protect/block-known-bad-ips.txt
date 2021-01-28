@@ -94,3 +94,6 @@
 #
 # https://cleantalk.org/blacklists/51.68.11.199
 51.68.11.199
+#
+# https://cleantalk.org/blacklists/208.113.170.111
+208.113.170.111
