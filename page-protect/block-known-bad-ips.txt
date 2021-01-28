@@ -97,3 +97,6 @@
 #
 # https://cleantalk.org/blacklists/208.113.170.111
 208.113.170.111
+#
+# https://cleantalk.org/blacklists/138.201.64.72
+138.201.64.72 
