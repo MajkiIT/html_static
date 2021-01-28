@@ -106,3 +106,4 @@
 /wp-login.php
 /wp-content/themes/distance-lite/languages/
 /wp-info.php
+/google-site-verification-content-
