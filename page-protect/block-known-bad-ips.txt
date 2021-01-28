@@ -106,3 +106,18 @@
 #
 # https://cleantalk.org/blacklists/104.167.2.185
 104.167.2.185
+#
+# https://cleantalk.org/blacklists/5.9.11.241
+5.9.11.241
+#
+# https://cleantalk.org/blacklists/146.228.113.46
+146.228.113.46
+#
+# https://cleantalk.org/blacklists/108.163.251.245
+108.163.251.245
+#
+# https://cleantalk.org/blacklists/51.68.11.215
+51.68.11.215
+#
+# https://cleantalk.org/blacklists/54.198.55.229
+54.198.55.229
