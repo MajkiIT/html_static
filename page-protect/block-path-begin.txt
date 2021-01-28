@@ -105,3 +105,4 @@
 /wp2/
 /wp-login.php
 /wp-content/themes/distance-lite/languages/
+/wp-info.php
