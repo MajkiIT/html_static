@@ -104,3 +104,4 @@
 /wp1/
 /wp2/
 /wp-login.php
+/wp-content/themes/distance-lite/languages/
