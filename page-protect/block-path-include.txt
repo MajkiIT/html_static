@@ -135,3 +135,4 @@
 /crossdomain.xml
 /wp-login.php
 /_ignition/
+/wp-admin.php
