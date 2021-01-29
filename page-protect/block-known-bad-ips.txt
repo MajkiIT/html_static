@@ -142,3 +142,6 @@
 #
 # https://cleantalk.org/blacklists/158.101.118.106
 158.101.118.106
+#
+# https://cleantalk.org/blacklists/81.88.49.9
+81.88.49.9
