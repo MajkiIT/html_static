@@ -148,3 +148,6 @@
 #
 # https://cleantalk.org/blacklists/51.68.11.207
 51.68.11.207
+#
+# https://cleantalk.org/blacklists/103.247.9.13
+103.247.9.13
