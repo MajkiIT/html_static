@@ -109,3 +109,4 @@
 /google-site-verification-content-
 /cache/blackhat.php
 /wp-content/admin.php
+/autodiscover/
