@@ -151,3 +151,6 @@
 #
 # https://cleantalk.org/blacklists/103.247.9.13
 103.247.9.13
+#
+# https://cleantalk.org/blacklists/176.96.238.202
+176.96.224.0/19
