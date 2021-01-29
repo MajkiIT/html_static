@@ -139,3 +139,6 @@
 #
 # https://cleantalk.org/blacklists/37.133.65.239
 37.133.65.239
+#
+# https://cleantalk.org/blacklists/158.101.118.106
+158.101.118.106
