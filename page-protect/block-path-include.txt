@@ -136,3 +136,4 @@
 /wp-login.php
 /_ignition/
 /wp-admin.php
+/wp-xmlrpc.php
