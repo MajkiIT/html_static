@@ -46,3 +46,4 @@
 .tar.7z
 .php.1
 .php.wim
+.suspected
