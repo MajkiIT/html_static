@@ -110,3 +110,4 @@
 /cache/blackhat.php
 /wp-content/admin.php
 /autodiscover/
+/wp-cofigs.php
