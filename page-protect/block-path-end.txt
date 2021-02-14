@@ -47,4 +47,3 @@
 .php.1
 .php.wim
 .suspected
-.jsp
