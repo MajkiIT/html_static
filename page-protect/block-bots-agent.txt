@@ -980,3 +980,4 @@ adscanner/
 Crawlson/1.0
 intelx.io_bot
 XenForo/2.x (https://www.babyboom.pl/forum
+Embarcadero URI Client/1.0
