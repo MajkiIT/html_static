@@ -161,3 +161,6 @@
 #
 # Screaming Frog SEO Spider
 109.173.138.189
+#
+# RU
+109.248.200.0/22
