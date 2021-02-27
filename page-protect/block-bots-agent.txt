@@ -982,3 +982,4 @@ intelx.io_bot
 XenForo/2.x (https://www.babyboom.pl/forum
 Embarcadero URI Client/1.0
 http.rb/4.2.0
+ScamadviserExternalHit/1.0
