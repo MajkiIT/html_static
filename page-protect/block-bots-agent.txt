@@ -113,6 +113,7 @@ CopyRightCheck
 CorpusCrawler
 Covario-IDS
 Crawler4j
+Crawlson/1.0
 Crescent
 Crescent Internet ToolPak HTTP OLE Control v.1.0
 Crowsnest
@@ -122,6 +123,7 @@ CyberPatrol SiteCat Webbot
 CyberSpyder/2.1
 DBLBot
 DCPbot
+DF Bot 1.0
 DISCo
 DISCo Pump 3.0
 DISCo Pump 3.2
@@ -131,6 +133,8 @@ DNS-Digger-Explorer
 Daumoa
 DealGates Bot
 Deweb/1.01
+DirBuster-1.0-RC1 (http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)
+Dispatch/0.14.0-SNAPSHOT
 DittoSpyder
 Dlvr.it/1.0
 DomainCrawler
@@ -141,6 +145,8 @@ Download Demon
 Download Demon/3.2.0.8
 Download Demon/3.5.0.11
 DripfeedBot
+DropboxPreviewBot/1.0
+DuckDuckGo-Favicons-Bot/1.0
 EasouSpider
 EasyBib AutoCite
 EdisterBot
@@ -148,6 +154,7 @@ EirGrabber
 EmailCollector
 EmailSiphon
 EmailWolf
+Embarcadero URI Client/1.0
 Embedly
 EnigmaBot
 EroCrawler
@@ -320,6 +327,7 @@ Leikibot
 LemurWebCrawler
 LexiBot
 LexxeBot
+LightspeedSystemsCrawler
 Lijit
 LinguaBot
 Linguee Bot
@@ -521,13 +529,14 @@ STINGbot
 SWEBot
 SafetyNet Robot 0.1
 SanszBot
-Scrapy/2.3.0 (+https://scrapy.org)
+ScamadviserExternalHit/1.0
 Scarlett
 Scooter
 ScoutJet
+Scrapy/2.3.0 (+https://scrapy.org)
 Screaming Frog SEO Spider
-Screaming Frog SEO Spider/13.2
 Screaming Frog SEO Spider/12.3
+Screaming Frog SEO Spider/13.2
 ScreenerBot Crawler
 Search17Bot
 SearchmetricsBot
@@ -551,6 +560,7 @@ SirdataBot
 SiteCondor
 SiteSnagger
 Sitedomain-Bot
+SkypeUriPreview Preview/0.5
 Slackbot-LinkExpanding
 SlySearch
 SmartDownload
@@ -646,6 +656,7 @@ VoidEYE
 WASALive-Bot
 WBSearchBot
 WMCAI_robot
+WPScan v3.8.10 (https://wpscan.org/)
 WWW Collector
 WWW-Collector-E
 WWWOFFLE
@@ -761,6 +772,7 @@ XRL
 Xaldon WebSpider
 Xaldon WebSpider 2.5.b3
 Xaldon_WebSpider
+XenForo/2.x (https://www.babyboom.pl/forum
 Xenu's
 Xenu's Link Sleuth 1.1c
 XmarksFetch
@@ -813,6 +825,7 @@ ZyBorg
 ^Wget
 abby
 adressendeutschland.de
+adscanner/
 aiHitBot
 akula
 alexa site audit
@@ -824,7 +837,6 @@ b2w/0.1
 backlink-check.de
 baypup
 bidswitchbot/1.0
-bingbot
 bitlybot
 biwec
 bixocrawler
@@ -866,7 +878,6 @@ grub
 hawkReader
 heritrix
 hloader
-http://google.com
 httplib
 humanlinks
 iCjobs
@@ -876,6 +887,7 @@ idmarch
 imbot
 immediatenet thumbnails
 inagist.com url crawler
+intelx.io_bot
 jumpstation
 kulturarw
 larbin
@@ -968,18 +980,3 @@ wscheck.com
 www.freeloader.com.
 x28-job-bot
 yacybot
-WPScan v3.8.10 (https://wpscan.org/)
-DirBuster-1.0-RC1 (http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)
-SkypeUriPreview Preview/0.5
-DropboxPreviewBot/1.0
-DF Bot 1.0
-DuckDuckGo-Favicons-Bot/1.0
-Dispatch/0.14.0-SNAPSHOT
-LightspeedSystemsCrawler
-adscanner/
-Crawlson/1.0
-intelx.io_bot
-XenForo/2.x (https://www.babyboom.pl/forum
-Embarcadero URI Client/1.0
-http.rb/4.2.0
-ScamadviserExternalHit/1.0
