@@ -980,3 +980,4 @@ wscheck.com
 www.freeloader.com.
 x28-job-bot
 yacybot
+Faraday v0.17.3
