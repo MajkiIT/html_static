@@ -1,0 +1,10 @@
+# Web Application - block bad agent and bots SEO
+# Homepage: https://www.certyficate.it/
+# Contact: errorsfilters@certyficate.it 
+# License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+# Copyright (C) 2021 Certyficate IT
+#
+#
+Screaming Frog SEO Spider
+Screaming Frog SEO Spider/12.3
+Screaming Frog SEO Spider/13.2
