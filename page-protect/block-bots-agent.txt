@@ -534,9 +534,6 @@ Scarlett
 Scooter
 ScoutJet
 Scrapy/2.3.0 (+https://scrapy.org)
-Screaming Frog SEO Spider
-Screaming Frog SEO Spider/12.3
-Screaming Frog SEO Spider/13.2
 ScreenerBot Crawler
 Search17Bot
 SearchmetricsBot
