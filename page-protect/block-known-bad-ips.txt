@@ -182,3 +182,6 @@
 #
 # https://www.abuseipdb.com/check/50.62.146.134
 50.62.146.134
+#
+# https://www.abuseipdb.com/check/13.92.153.211
+13.92.153.211
