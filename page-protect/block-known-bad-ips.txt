@@ -185,3 +185,6 @@
 #
 # https://www.abuseipdb.com/check/13.92.153.211
 13.92.153.211
+#
+# https://cleantalk.org/blacklists/185.81.157.154
+185.81.157.154
