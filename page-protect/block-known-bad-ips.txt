@@ -188,3 +188,6 @@
 #
 # https://cleantalk.org/blacklists/185.81.157.154
 185.81.157.154
+#
+# https://www.abuseipdb.com/check/138.197.177.216
+138.197.177.216
