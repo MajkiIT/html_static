@@ -191,3 +191,6 @@
 #
 # https://www.abuseipdb.com/check/138.197.177.216
 138.197.177.216
+#
+# https://www.abuseipdb.com/check/93.158.90.99
+93.158.90.99
