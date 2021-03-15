@@ -114,3 +114,4 @@
 /phpinfo.php
 /config.json
 /aws-credentials.json
+/humans.txt
