@@ -206,3 +206,6 @@
 #
 # https://www.abuseipdb.com/check/172.104.9.202
 172.104.9.202
+#
+# https://www.abuseipdb.com/check/192.71.42.108
+192.71.42.108
