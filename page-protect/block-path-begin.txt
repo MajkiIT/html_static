@@ -111,3 +111,6 @@
 /wp-content/admin.php
 /autodiscover/
 /wp-cofigs.php
+/phpinfo.php
+/config.json
+/aws-credentials.json
