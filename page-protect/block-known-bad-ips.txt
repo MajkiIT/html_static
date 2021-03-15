@@ -200,3 +200,9 @@
 #
 # https://www.abuseipdb.com/check/52.152.150.11
 52.152.150.11
+#
+# https://www.abuseipdb.com/check/20.68.241.118
+20.68.241.118
+#
+# https://www.abuseipdb.com/check/172.104.9.202
+172.104.9.202
