@@ -114,3 +114,4 @@
 /config.json
 /aws-credentials.json
 /humans.txt
+/ups.php
