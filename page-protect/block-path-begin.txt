@@ -115,3 +115,4 @@
 /aws-credentials.json
 /humans.txt
 /ups.php
+/adminer-
