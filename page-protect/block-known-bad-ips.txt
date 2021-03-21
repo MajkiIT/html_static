@@ -212,3 +212,6 @@
 #
 # https://www.abuseipdb.com/check/47.52.30.46
 47.52.30.46
+#
+# https://www.abuseipdb.com/check/129.159.32.71
+129.159.32.71
