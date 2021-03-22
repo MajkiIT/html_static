@@ -116,3 +116,4 @@
 /humans.txt
 /ups.php
 /adminer-
+/web.config
