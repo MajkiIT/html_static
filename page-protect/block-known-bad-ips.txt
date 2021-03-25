@@ -219,3 +219,6 @@
 #
 # https://scamalytics.com/ip/185.76.9.102
 185.76.9.102
+#
+# https://www.abuseipdb.com/check/5.196.76.18
+5.196.76.18
