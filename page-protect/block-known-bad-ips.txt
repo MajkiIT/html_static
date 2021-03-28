@@ -225,3 +225,6 @@
 #
 # https://www.abuseipdb.com/check/35.192.133.147
 35.192.133.147
+#
+# https://www.abuseipdb.com/check/159.203.36.236
+159.203.36.236
