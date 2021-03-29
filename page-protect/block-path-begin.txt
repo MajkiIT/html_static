@@ -117,3 +117,5 @@
 /ups.php
 /adminer-
 /web.config
+/humans.txt
+/ads.txt
