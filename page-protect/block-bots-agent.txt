@@ -968,7 +968,6 @@ webmastercoffee
 webs@recruit.co.jp
 webvac/1.0
 webwalk
-wget
 wikiwix-bot
 wired-digital-newsbot/1.5
 woriobot
