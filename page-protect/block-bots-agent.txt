@@ -743,17 +743,6 @@ Website eXtractor
 Website.Quester
 Webster Pro
 Webster.Pro
-Wget
-Wget/1.4.0
-Wget/1.5.2
-Wget/1.5.3
-Wget/1.6
-Wget/1.7
-Wget/1.8
-Wget/1.8.1
-Wget/1.8.1+cvs
-Wget/1.8.2
-Wget/1.9-beta
 WhoWhere Robot
 Whoismindbot
 Widow
