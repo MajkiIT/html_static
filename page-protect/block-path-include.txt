@@ -119,7 +119,6 @@
 /~root/
 /password/
 /system.ini
-/wp-cron.php
 /nslookup
 /index_old.php
 /index.php1
