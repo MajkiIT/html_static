@@ -234,3 +234,6 @@
 #
 # https://www.abuseipdb.com/check/52.162.233.154
 52.162.233.154
+#
+# https://www.abuseipdb.com/check/192.153.57.53
+192.153.57.53
