@@ -819,7 +819,6 @@ ZoominfoBot
 ZumBot
 ZyBorg
 ^Nail
-^Wget
 abby
 adressendeutschland.de
 adscanner/
