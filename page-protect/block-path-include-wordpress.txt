@@ -10,7 +10,6 @@
 /wp-admin
 /wordpress/
 /wp/
-/wp-cron.php
 /author-sitemap.xml
 /4693366.html
 /wp-links-opml.php
