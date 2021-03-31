@@ -240,3 +240,6 @@
 #
 # https://www.abuseipdb.com/check/193.202.110.20
 193.202.110.20
+#
+# https://www.abuseipdb.com/check/176.227.202.14
+176.227.202.14
