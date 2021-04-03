@@ -243,3 +243,6 @@
 #
 # https://www.abuseipdb.com/check/176.227.202.14
 176.227.202.14
+#
+# https://www.abuseipdb.com/check/142.93.4.109
+142.93.4.109
