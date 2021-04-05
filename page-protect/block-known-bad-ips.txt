@@ -256,3 +256,6 @@
 #
 # https://www.abuseipdb.com/check/198.187.31.201
 198.187.31.201
+#
+# https://www.abuseipdb.com/check/18.218.90.106
+18.218.90.106
