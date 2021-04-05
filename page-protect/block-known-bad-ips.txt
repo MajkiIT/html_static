@@ -265,9 +265,3 @@
 #
 # https://www.abuseipdb.com/check/54.83.3.65
 54.83.3.65
-#
-# https://www.abuseipdb.com/check/13.66.139.80
-13.66.139.80
-#
-# https://www.abuseipdb.com/check/13.66.139.6
-13.66.139.6
