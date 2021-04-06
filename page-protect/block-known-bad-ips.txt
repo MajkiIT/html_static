@@ -271,3 +271,6 @@
 #
 # https://www.abuseipdb.com/check/195.154.191.51
 195.154.191.51
+#
+# https://www.abuseipdb.com/check/188.166.218.146
+188.166.218.146
