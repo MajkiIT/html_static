@@ -290,3 +290,9 @@
 #
 # https://www.abuseipdb.com/check/65.21.50.224
 65.21.50.224
+#
+# https://www.abuseipdb.com/check/62.210.146.197
+62.210.146.197
+#
+# https://www.abuseipdb.com/check/46.252.205.142
+46.252.205.142
