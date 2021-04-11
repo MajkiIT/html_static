@@ -134,3 +134,5 @@
 /crossdomain.xml
 /_ignition/
 /wp-xmlrpc.php
+/index-config.php
+/htaccess.php
