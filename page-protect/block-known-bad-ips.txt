@@ -296,3 +296,6 @@
 #
 # https://www.abuseipdb.com/check/46.252.205.142
 46.252.205.142
+#
+# https://www.abuseipdb.com/check/109.104.151.102
+109.104.151.102
