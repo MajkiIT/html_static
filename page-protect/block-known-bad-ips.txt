@@ -299,3 +299,6 @@
 #
 # https://www.abuseipdb.com/check/109.104.151.102
 109.104.151.102
+#
+# https://www.abuseipdb.com/check/172.98.71.152
+172.98.71.152
