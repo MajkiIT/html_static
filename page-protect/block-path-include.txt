@@ -136,3 +136,4 @@
 /wp-xmlrpc.php
 /index-config.php
 /htaccess.php
+FPURL.xml
