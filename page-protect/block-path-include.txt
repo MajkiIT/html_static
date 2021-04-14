@@ -136,4 +136,9 @@
 /wp-xmlrpc.php
 /index-config.php
 /htaccess.php
-FPURL.xml
+/FPURL.xml
+/phpinfo
+/phpinfos.php
+/config/aws.yml
+/.credentials
+/phpinfo.php
