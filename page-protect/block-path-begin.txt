@@ -120,3 +120,8 @@
 /humans.txt
 /ads.txt
 /xmlrp.php
+/phpinfo
+/phpinfos.php
+/config/aws.yml
+/.credentials
+/phpinfo.php
