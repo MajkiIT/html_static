@@ -317,3 +317,6 @@
 #
 # https://www.abuseipdb.com/check/199.184.215.11
 199.184.215.11
+#
+# https://www.abuseipdb.com/check/143.198.114.1
+143.198.114.1
