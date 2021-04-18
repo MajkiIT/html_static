@@ -323,3 +323,6 @@
 #
 # https://www.abuseipdb.com/check/91.121.80.103
 91.121.80.103
+#
+# https://www.abuseipdb.com/check/143.244.37.212
+143.244.37.212
