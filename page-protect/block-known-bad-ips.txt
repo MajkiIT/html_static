@@ -330,3 +330,6 @@
 #
 # https://www.abuseipdb.com/check/79.96.150.240
 79.96.150.240
+#
+# https://www.abuseipdb.com/check/37.187.138.171
+37.187.138.171
