@@ -126,3 +126,4 @@
 /config/aws.yml
 /.credentials
 /phpinfo.php
+/cache/
