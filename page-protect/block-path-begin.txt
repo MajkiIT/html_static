@@ -127,3 +127,4 @@
 /.credentials
 /phpinfo.php
 /cache/
+/wp-content/db-cache.php
