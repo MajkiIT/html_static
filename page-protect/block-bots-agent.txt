@@ -965,3 +965,4 @@ x28-job-bot
 yacybot
 Faraday v0.17.3
 Qwantify/1.0
+SemrushBot
