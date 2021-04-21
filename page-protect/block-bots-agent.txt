@@ -966,3 +966,4 @@ yacybot
 Faraday v0.17.3
 Qwantify/1.0
 SemrushBot
+Scrapy/2.4.1 (+https://scrapy.org)
