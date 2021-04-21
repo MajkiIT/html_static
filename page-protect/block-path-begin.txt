@@ -130,3 +130,4 @@
 /wp-content/db-cache.php
 /sitemap.txt
 /sitemap.xml.gz
+/sellers.json
