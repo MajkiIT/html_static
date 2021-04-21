@@ -364,3 +364,9 @@
 #
 # https://www.abuseipdb.com/check/212.83.36.135
 212.83.36.135
+#
+# https://www.abuseipdb.com/check/172.93.204.114
+172.93.204.114
+#
+# https://www.abuseipdb.com/check/172.98.87.131
+172.98.87.131
