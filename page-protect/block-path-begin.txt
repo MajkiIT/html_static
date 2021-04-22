@@ -132,3 +132,4 @@
 /sitemap.xml.gz
 /sellers.json
 /AutoDiscover/autodiscover.xml
+/libraries/joomla/
