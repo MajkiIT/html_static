@@ -131,3 +131,4 @@
 /sitemap.txt
 /sitemap.xml.gz
 /sellers.json
+/AutoDiscover/autodiscover.xml
