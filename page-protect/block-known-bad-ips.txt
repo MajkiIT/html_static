@@ -381,3 +381,6 @@
 #
 # https://www.abuseipdb.com/check/87.98.251.172
 87.98.251.172
+#
+# https://www.abuseipdb.com/check/195.14.0.72
+195.14.0.72
