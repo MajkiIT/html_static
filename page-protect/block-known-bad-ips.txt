@@ -384,3 +384,6 @@
 #
 # https://www.abuseipdb.com/check/195.14.0.72
 195.14.0.72
+#
+# https://www.abuseipdb.com/check/45.92.228.61
+45.92.228.61
