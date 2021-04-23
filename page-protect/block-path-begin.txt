@@ -133,3 +133,4 @@
 /sellers.json
 /AutoDiscover/autodiscover.xml
 /libraries/joomla/
+/wp-login.php
