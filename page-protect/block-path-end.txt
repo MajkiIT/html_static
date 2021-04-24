@@ -48,4 +48,3 @@
 .php.wim
 .suspected
 /404.php
-/wp-login.php
