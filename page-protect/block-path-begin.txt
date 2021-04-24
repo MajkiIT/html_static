@@ -91,6 +91,10 @@
 /site/
 /temp/
 /test/
+/sellers.json
+/AutoDiscover/autodiscover.xml
+/libraries/joomla/
+/wp-login.php
 /test/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
 /tmp/
 /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -130,7 +134,3 @@
 /wp-content/db-cache.php
 /sitemap.txt
 /sitemap.xml.gz
-/sellers.json
-/AutoDiscover/autodiscover.xml
-/libraries/joomla/
-/wp-login.php
