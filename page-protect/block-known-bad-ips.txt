@@ -398,3 +398,6 @@
 #
 # https://www.abuseipdb.com/check/45.92.228.61
 45.92.228.61
+#
+# https://www.abuseipdb.com/check/34.66.214.30
+34.66.214.30
