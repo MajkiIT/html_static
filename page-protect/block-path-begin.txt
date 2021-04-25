@@ -134,3 +134,7 @@
 /wp-content/db-cache.php
 /sitemap.txt
 /sitemap.xml.gz
+/v1/
+/v2/
+/wordpress/
+/wp/
