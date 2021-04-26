@@ -138,3 +138,4 @@
 /v2/
 /wordpress/
 /wp/
+/class-wp-widget-archives.php
