@@ -401,3 +401,6 @@
 #
 # https://www.abuseipdb.com/check/34.66.214.30
 34.66.214.30
+#
+# https://www.abuseipdb.com/check/192.176.249.42
+192.176.249.42
