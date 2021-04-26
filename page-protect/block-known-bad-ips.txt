@@ -404,3 +404,6 @@
 #
 # https://www.abuseipdb.com/check/192.176.249.42
 192.176.249.42
+#
+# https://www.abuseipdb.com/check/212.227.210.241
+212.227.210.241
