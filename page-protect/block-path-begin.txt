@@ -139,3 +139,4 @@
 /wordpress/
 /wp/
 /class-wp-widget-archives.php
+/vendor/phpunit/phpunit/
