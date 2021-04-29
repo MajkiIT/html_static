@@ -48,3 +48,4 @@
 .php.wim
 .suspected
 /404.php
+/debug.xml
