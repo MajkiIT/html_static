@@ -141,3 +141,4 @@
 /config/aws.yml
 /.credentials
 /phpinfo.php
+/wp-content/plugins/kaswara
