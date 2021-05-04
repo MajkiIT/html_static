@@ -140,3 +140,4 @@
 /wp/
 /class-wp-widget-archives.php
 /vendor/phpunit/phpunit/
+/blog/wp-login.php
