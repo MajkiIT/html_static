@@ -425,3 +425,6 @@
 #
 # https://www.abuseipdb.com/check/164.132.128.23
 164.132.128.23
+#
+# https://www.abuseipdb.com/check/69.30.225.101
+69.30.225.101
