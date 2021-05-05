@@ -428,3 +428,6 @@
 #
 # https://www.abuseipdb.com/check/69.30.225.101
 69.30.225.101
+#
+# https://www.abuseipdb.com/check/34.123.149.241
+34.123.149.241
