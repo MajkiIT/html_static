@@ -57,7 +57,6 @@
 /feed/
 /feeds/
 /gulpfile.js
-/home/
 /htadmin/login.php
 /index.atom
 /index.rdf
