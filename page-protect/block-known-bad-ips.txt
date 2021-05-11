@@ -437,3 +437,6 @@
 #
 # https://www.abuseipdb.com/check/45.40.166.163
 45.40.166.163
+#
+# https://www.abuseipdb.com/check/78.129.237.56
+78.129.237.56
