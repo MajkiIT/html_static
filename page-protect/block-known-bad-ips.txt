@@ -440,3 +440,6 @@
 #
 # https://www.abuseipdb.com/check/78.129.237.56
 78.129.237.56
+#
+# https://www.abuseipdb.com/check/144.76.102.243
+144.76.102.243
