@@ -143,3 +143,4 @@
 /wp-admin/network/network.php
 /.info.php
 /wp-content/plugins/coloros/
+/.hg/
