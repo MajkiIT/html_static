@@ -145,3 +145,4 @@
 /wp-content/plugins/coloros/
 /.hg/
 /wp-config-good
+/new-index.php
