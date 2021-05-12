@@ -50,3 +50,4 @@
 /404.php
 /debug.xml
 /oeache.php
+/wp-config.php
