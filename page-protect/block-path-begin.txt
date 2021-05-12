@@ -144,3 +144,4 @@
 /.info.php
 /wp-content/plugins/coloros/
 /.hg/
+/wp-config-good
