@@ -968,3 +968,4 @@ Qwantify/1.0
 SemrushBot
 Scrapy/2.4.1 (+https://scrapy.org)
 Photon/1.0
+lkxscan/v0.1.0
