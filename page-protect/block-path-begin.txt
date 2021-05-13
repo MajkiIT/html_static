@@ -146,3 +146,4 @@
 /.hg/
 /wp-config-good
 /new-index.php
+/info.php
