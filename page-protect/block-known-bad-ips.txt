@@ -443,3 +443,6 @@
 #
 # https://www.abuseipdb.com/check/144.76.102.243
 144.76.102.243
+#
+# https://www.abuseipdb.com/check/51.38.83.105
+51.38.83.105
