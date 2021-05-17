@@ -52,3 +52,4 @@
 /oeache.php
 /wp-config.php
 /wp-stream.php
+/wp-content/uploads/wp-logout.php
