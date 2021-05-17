@@ -148,3 +148,4 @@
 /new-index.php
 /info.php
 /admin.php
+/wp-content/plugins/redirection/models/wp-contentt.php HTT
