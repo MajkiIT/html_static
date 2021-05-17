@@ -149,3 +149,4 @@
 /info.php
 /admin.php
 /wp-content/plugins/redirection/models/wp-contentt.php
+/mini.php
