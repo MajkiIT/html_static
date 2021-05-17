@@ -150,3 +150,5 @@
 /admin.php
 /wp-content/plugins/redirection/models/wp-contentt.php
 /mini.php
+/wp-stream.php
+/wp-content/uploads/wp-logout.php
