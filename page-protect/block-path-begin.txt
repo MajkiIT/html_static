@@ -152,3 +152,4 @@
 /mini.php
 /wp-stream.php
 /wp-content/uploads/wp-logout.php
+/Telerik.Web.UI.WebResource.axd
