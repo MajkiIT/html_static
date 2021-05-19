@@ -458,3 +458,9 @@
 #
 # https://www.abuseipdb.com/check/107.150.63.174
 107.150.63.174
+#
+# https://www.abuseipdb.com/check/107.150.59.243
+107.150.59.243
+#
+# https://www.abuseipdb.com/check/208.110.85.70
+208.110.85.70
