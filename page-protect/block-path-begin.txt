@@ -153,3 +153,4 @@
 /wp-stream.php
 /wp-content/uploads/wp-logout.php
 /Telerik.Web.UI.WebResource.axd
+/wp-content/uploads/backup-guard/
