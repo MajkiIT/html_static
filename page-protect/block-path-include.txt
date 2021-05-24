@@ -142,3 +142,4 @@
 /.credentials
 /phpinfo.php
 /wp-content/plugins/kaswara
+duplicator_download
