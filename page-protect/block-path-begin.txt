@@ -156,3 +156,4 @@
 /wp-content/uploads/backup-guard/
 /wp-content/uploads/backups/
 /wp-content/backups/
+/wp-content/plugins/wp-complete-backup/storage/
