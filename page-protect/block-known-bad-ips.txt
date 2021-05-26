@@ -470,3 +470,6 @@
 #
 # https://www.abuseipdb.com/check/191.101.217.30
 191.101.217.30
+#
+# https://www.abuseipdb.com/check/45.87.83.124
+45.87.83.124
