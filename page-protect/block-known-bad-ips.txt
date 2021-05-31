@@ -482,3 +482,9 @@
 #
 # https://www.abuseipdb.com/check/190.61.46.126
 190.61.46.126
+#
+# https://www.abuseipdb.com/check/34.134.121.72
+34.134.121.72
+#
+# https://www.abuseipdb.com/check/193.176.85.104
+193.176.85.104
