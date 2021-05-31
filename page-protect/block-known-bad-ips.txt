@@ -491,3 +491,6 @@
 #
 # https://www.abuseipdb.com/check/93.158.90.105
 93.158.90.105
+#
+# https://www.abuseipdb.com/check/35.194.29.54
+35.194.29.54
