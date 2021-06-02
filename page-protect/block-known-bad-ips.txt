@@ -507,3 +507,6 @@
 #
 # https://www.abuseipdb.com/check/5.45.80.13
 5.45.80.13
+#
+# https://www.abuseipdb.com/check/139.59.176.221
+139.59.176.221
