@@ -497,3 +497,6 @@
 #
 # https://www.abuseipdb.com/check/167.172.100.61
 167.172.100.61
+#
+# https://www.abuseipdb.com/check/193.176.85.92
+193.176.85.92
