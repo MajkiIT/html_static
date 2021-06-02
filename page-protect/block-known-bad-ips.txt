@@ -494,3 +494,6 @@
 #
 # https://www.abuseipdb.com/check/35.194.29.54
 35.194.29.54
+#
+# https://www.abuseipdb.com/check/167.172.100.61
+167.172.100.61
