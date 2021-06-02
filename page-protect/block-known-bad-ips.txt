@@ -503,3 +503,6 @@
 #
 # https://www.abuseipdb.com/check/178.32.109.161
 178.32.109.161
+#
+# https://www.abuseipdb.com/check/5.45.80.13
+5.45.80.13
