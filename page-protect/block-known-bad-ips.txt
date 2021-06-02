@@ -510,3 +510,6 @@
 #
 # https://www.abuseipdb.com/check/139.59.176.221
 139.59.176.221
+#
+# https://www.abuseipdb.com/check/34.68.220.46
+34.68.220.46
