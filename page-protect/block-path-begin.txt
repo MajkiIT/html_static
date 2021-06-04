@@ -157,3 +157,4 @@
 /wp-content/uploads/backups/
 /wp-content/backups/
 /wp-content/plugins/wp-complete-backup/storage/
+/ckfinder/core/connector/php/connector.php
