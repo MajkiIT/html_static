@@ -522,3 +522,6 @@
 #
 # https://www.abuseipdb.com/check/50.28.1.27
 50.28.1.27
+#
+# https://www.abuseipdb.com/check/3.138.195.146
+3.138.195.146
