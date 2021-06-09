@@ -531,3 +531,6 @@
 #
 # https://www.abuseipdb.com/check/157.230.46.106
 157.230.46.106
+#
+# https://www.abuseipdb.com/check/114.182.31.89
+114.182.31.89
