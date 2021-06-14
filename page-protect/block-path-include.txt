@@ -143,3 +143,4 @@
 /phpinfo.php
 /wp-content/plugins/kaswara
 duplicator_download
+/ckfinder/core/connector/php/connector.php
