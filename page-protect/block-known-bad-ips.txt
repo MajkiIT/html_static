@@ -540,3 +540,6 @@
 #
 # https://www.abuseipdb.com/check/193.176.85.112
 193.176.85.112
+#
+# https://www.abuseipdb.com/check/35.224.174.1
+35.224.174.1
