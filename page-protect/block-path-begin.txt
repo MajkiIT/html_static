@@ -161,3 +161,4 @@
 /js/ckfinder/core/connector/php/connector.php 
 /db.php
 /dc.php
+/wp-content/plugins/cherry-plugin/
