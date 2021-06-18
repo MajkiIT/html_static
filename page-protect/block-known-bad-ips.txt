@@ -543,3 +543,6 @@
 #
 # https://www.abuseipdb.com/check/35.224.174.1
 35.224.174.1
+#
+# https://www.abuseipdb.com/check/134.209.24.58
+134.209.24.58
