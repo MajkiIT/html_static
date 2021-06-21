@@ -561,3 +561,6 @@
 #
 # https://www.abuseipdb.com/check/35.238.221.48
 35.238.221.48
+#
+# https://www.abuseipdb.com/check/62.4.16.234
+62.4.16.234
