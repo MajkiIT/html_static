@@ -558,3 +558,6 @@
 #
 # https://www.abuseipdb.com/check/45.40.136.39
 45.40.136.39
+#
+# https://www.abuseipdb.com/check/35.238.221.48
+35.238.221.48
