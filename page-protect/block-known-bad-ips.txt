@@ -573,3 +573,6 @@
 #
 # https://www.abuseipdb.com/check/109.169.86.112
 109.169.86.112
+#
+# https://www.abuseipdb.com/check/46.105.120.49
+46.105.120.49
