@@ -579,3 +579,6 @@
 #
 # https://www.abuseipdb.com/check/54.71.187.124
 54.71.187.124
+#
+# https://www.abuseipdb.com/check/206.189.60.161
+206.189.60.161
