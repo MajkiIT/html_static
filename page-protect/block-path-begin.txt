@@ -163,3 +163,4 @@
 /dc.php
 /wp-content/plugins/cherry-plugin/
 /wp-content/plugins/log-http-requests/includes/include.php
+/wp-content/z_backups/
