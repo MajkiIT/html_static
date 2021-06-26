@@ -582,3 +582,6 @@
 #
 # https://www.abuseipdb.com/check/206.189.60.161
 206.189.60.161
+#
+# https://www.abuseipdb.com/check/109.169.15.78
+109.169.15.78
