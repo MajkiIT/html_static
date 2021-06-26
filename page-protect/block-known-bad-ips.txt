@@ -585,3 +585,6 @@
 #
 # https://www.abuseipdb.com/check/109.169.15.78
 109.169.15.78
+#
+# https://www.abuseipdb.com/check/34.134.250.146
+34.134.250.146
