@@ -165,3 +165,6 @@
 /wp-content/plugins/log-http-requests/includes/include.php
 /wp-content/z_backups/
 /wp-logins.php
+/wp-content/uploads/db-backup/
+/wp-content/plugins/masterx/
+/wp-content/uploads/backup-database/
