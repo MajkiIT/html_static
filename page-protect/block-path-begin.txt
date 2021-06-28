@@ -168,3 +168,5 @@
 /wp-content/uploads/db-backup/
 /wp-content/plugins/masterx/
 /wp-content/uploads/backup-database/
+/doc.php
+/wp-plugins.php
