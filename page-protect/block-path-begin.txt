@@ -170,3 +170,4 @@
 /wp-content/uploads/backup-database/
 /doc.php
 /wp-plugins.php
+/hello.php
