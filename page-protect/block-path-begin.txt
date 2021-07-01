@@ -172,3 +172,4 @@
 /wp-plugins.php
 /hello.php
 /wp-content/uploads/wp_all_backup/
+/wp-content/plugins/wp-user-avatar/
