@@ -594,3 +594,6 @@
 #
 # https://www.abuseipdb.com/check/34.71.20.225
 34.71.20.225
+#
+# https://www.abuseipdb.com/check/162.55.129.41
+162.55.129.41
