@@ -177,3 +177,4 @@
 /wp-load.php
 /old-index.php
 /content-post.php
+/_MyAdmin/
