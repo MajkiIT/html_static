@@ -47,7 +47,6 @@
 /admin.cgi
 /adminer.php
 /administrator.cgi
-/administrator/
 /asdf.php
 /behat.yml.dist
 /bitcoin
