@@ -603,3 +603,15 @@
 #
 # https://www.abuseipdb.com/check/203.159.80.120
 203.159.80.120
+#
+# https://www.abuseipdb.com/check/206.189.89.252
+206.189.89.252
+#
+# https://www.abuseipdb.com/check/64.233.172.229
+64.233.172.229
+#
+# https://www.abuseipdb.com/check/52.186.168.107
+52.186.168.107
+#
+# https://www.abuseipdb.com/check/34.88.101.255
+34.88.101.255
