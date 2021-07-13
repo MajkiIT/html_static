@@ -618,3 +618,6 @@
 # 
 # https://www.abuseipdb.com/check/104.45.220.97
 104.45.220.97
+#
+# https://www.abuseipdb.com/check/45.12.223.138
+45.12.223.138
