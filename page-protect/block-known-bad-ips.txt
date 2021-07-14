@@ -621,3 +621,6 @@
 #
 # https://www.abuseipdb.com/check/45.12.223.138
 45.12.223.138
+#
+# https://www.abuseipdb.com/check/35.232.57.238
+35.232.57.238
