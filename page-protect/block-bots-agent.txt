@@ -1410,3 +1410,4 @@ TombaPublicWebCrawler
 HubSpot Crawler
 online-webceo-bot/1.0
 StormCrawler
+Faraday v0.17.4
