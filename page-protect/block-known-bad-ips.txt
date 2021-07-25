@@ -627,3 +627,6 @@
 #
 # https://www.abuseipdb.com/check/65.21.148.16
 65.21.148.16
+#
+# https://www.abuseipdb.com/check/45.94.237.12
+45.94.237.12
