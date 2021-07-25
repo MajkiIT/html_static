@@ -1412,3 +1412,4 @@ online-webceo-bot/1.0
 StormCrawler
 Faraday v0.17.4
 nettle (+https://www.nettle.sk)
+anonymousfox.co
