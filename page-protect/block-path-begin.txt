@@ -179,3 +179,4 @@
 /content-post.php
 /_MyAdmin/
 /phpformbuilder/
+/wp-content/plugins/woo-advanced-shipment-tracking
