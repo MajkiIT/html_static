@@ -1414,3 +1414,4 @@ Faraday v0.17.4
 nettle (+https://www.nettle.sk)
 anonymousfox.co
 ui.wordpress-theme-detector.com
+MetadataScraper
