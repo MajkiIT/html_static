@@ -1416,3 +1416,4 @@ anonymousfox.co
 ui.wordpress-theme-detector.com
 MetadataScraper
 Mozilla/5.0 (compatible; Dataprovider.com)
+webgains-bot (https://www.webgains.com/public/en/)
