@@ -1415,3 +1415,4 @@ nettle (+https://www.nettle.sk)
 anonymousfox.co
 ui.wordpress-theme-detector.com
 MetadataScraper
+Mozilla/5.0 (compatible; Dataprovider.com)
