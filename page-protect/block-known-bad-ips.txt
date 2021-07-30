@@ -645,3 +645,6 @@
 #
 # https://www.abuseipdb.com/check/51.116.171.221
 51.116.171.221
+#
+# https://www.abuseipdb.com/check/54.197.42.242
+54.197.42.242
