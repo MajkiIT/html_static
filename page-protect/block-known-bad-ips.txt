@@ -648,3 +648,6 @@
 #
 # https://www.abuseipdb.com/check/54.197.42.242
 54.197.42.242
+#
+# https://www.abuseipdb.com/check/198.204.234.252
+198.204.234.252
