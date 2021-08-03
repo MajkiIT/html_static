@@ -1418,3 +1418,4 @@ MetadataScraper
 Mozilla/5.0 (compatible; Dataprovider.com)
 webgains-bot (https://www.webgains.com/public/en/)
 anonymousfox.co
+Mozilla/5.0 (compatible; Znajo/1.0; +http://znajo.pl/
