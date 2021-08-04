@@ -655,3 +655,6 @@
 #
 # https://www.abuseipdb.com/check/144.76.168.111
 144.76.168.111
+#
+# https://www.abuseipdb.com/check/88.99.0.105
+88.99.0.105
