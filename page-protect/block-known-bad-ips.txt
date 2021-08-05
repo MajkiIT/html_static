@@ -658,3 +658,6 @@
 #
 # https://www.abuseipdb.com/check/88.99.0.105
 88.99.0.105
+#
+# https://www.abuseipdb.com/check/185.253.97.235
+185.253.97.235
