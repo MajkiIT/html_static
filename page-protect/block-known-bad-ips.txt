@@ -667,3 +667,9 @@
 #
 # https://www.abuseipdb.com/check/143.244.186.99
 143.244.186.99
+#
+# https://www.abuseipdb.com/check/88.150.240.220
+88.150.240.220
+#
+# https://www.abuseipdb.com/check/81.161.59.17
+81.161.59.17
