@@ -679,3 +679,6 @@
 #
 # https://www.abuseipdb.com/check/37.0.10.159
 37.0.10.159
+#
+# https://www.abuseipdb.com/check/134.249.125.48
+134.249.125.48
