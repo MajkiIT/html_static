@@ -688,3 +688,6 @@
 #
 # https://www.abuseipdb.com/check/157.90.130.117
 157.90.130.117
+#
+# https://www.abuseipdb.com/check/37.59.53.141
+37.59.53.141
