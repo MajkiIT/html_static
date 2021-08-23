@@ -691,3 +691,6 @@
 #
 # https://www.abuseipdb.com/check/37.59.53.141
 37.59.53.141
+#
+# https://www.abuseipdb.com/check/212.192.246.252
+212.192.246.252
