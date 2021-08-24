@@ -263,7 +263,7 @@
 #
 # https://www.abuseipdb.com/check/34.66.95.221
 34.66.95.221
-34.64.0.0/10
+#34.64.0.0/10
 #
 # https://www.abuseipdb.com/check/194.147.142.160
 194.147.142.160
