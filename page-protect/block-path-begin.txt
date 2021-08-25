@@ -182,3 +182,4 @@
 /wp-content/plugins/woo-advanced-shipment-tracking
 /css.php
 //
+/wp-content/plugins/woocommerce-jetpack/
