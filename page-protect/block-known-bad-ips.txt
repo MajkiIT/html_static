@@ -699,3 +699,6 @@
 # https://www.abuseipdb.com/check/109.169.85.38
 109.169.85.38
 109.169.85.26
+#
+# https://www.abuseipdb.com/check/193.142.146.138
+193.142.146.138
