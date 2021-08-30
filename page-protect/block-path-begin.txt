@@ -183,3 +183,4 @@
 /css.php
 //
 /wp-content/plugins/woocommerce-jetpack/
+/wp-content/wp-login.php
