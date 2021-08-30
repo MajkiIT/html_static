@@ -695,3 +695,6 @@
 #
 # https://www.abuseipdb.com/check/212.192.246.252
 212.192.246.252
+#
+# https://www.abuseipdb.com/check/109.169.85.38
+109.169.85.38
