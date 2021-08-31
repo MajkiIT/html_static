@@ -702,3 +702,6 @@
 #
 # https://www.abuseipdb.com/check/193.142.146.138
 193.142.146.138
+#
+# https://www.abuseipdb.com/check/88.150.220.8
+88.150.220.8
