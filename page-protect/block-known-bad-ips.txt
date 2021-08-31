@@ -705,3 +705,6 @@
 #
 # https://www.abuseipdb.com/check/88.150.220.8
 88.150.220.8
+#
+# https://www.abuseipdb.com/check/93.115.97.36
+93.115.97.36
