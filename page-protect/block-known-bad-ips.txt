@@ -708,3 +708,9 @@
 #
 # https://www.abuseipdb.com/check/93.115.97.36
 93.115.97.36
+#
+# https://www.abuseipdb.com/check/77.111.247.184
+77.111.247.184
+#
+# https://www.abuseipdb.com/check/77.111.247.39
+77.111.247.0/24
