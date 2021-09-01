@@ -714,3 +714,6 @@
 #
 # https://www.abuseipdb.com/check/77.111.247.39
 77.111.247.0/24
+#
+# https://www.abuseipdb.com/check/107.180.77.213
+107.180.77.213
