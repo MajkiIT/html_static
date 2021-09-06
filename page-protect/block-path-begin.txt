@@ -187,3 +187,4 @@
 /wp-content/themes/photocrati-theme/admin/scripts/scripts-update.php
 /config.js
 /aws.yml
+/adminsql/
