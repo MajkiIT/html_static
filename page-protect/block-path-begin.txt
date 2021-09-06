@@ -185,3 +185,5 @@
 /wp-content/plugins/woocommerce-jetpack/
 /wp-content/wp-login.php
 /wp-content/themes/photocrati-theme/admin/scripts/scripts-update.php
+/config.js
+/aws.yml
