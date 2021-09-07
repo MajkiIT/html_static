@@ -188,3 +188,5 @@
 /config.js
 /aws.yml
 /adminsql/
+/wp-includes/class.wp.php
+/local.env
