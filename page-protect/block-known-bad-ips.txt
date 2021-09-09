@@ -723,3 +723,6 @@
 #
 # https://www.abuseipdb.com/check/186.31.101.226
 186.31.101.226
+#
+# https://www.abuseipdb.com/check/34.70.19.55
+34.70.19.55
