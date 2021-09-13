@@ -54,3 +54,4 @@
 /changelog.txt
 /wp-config.txt
 /custom-image-handler.php
+/wp-admin/css/
