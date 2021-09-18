@@ -727,3 +727,6 @@
 #
 # https://www.abuseipdb.com/check/34.70.19.55
 34.70.19.55
+#
+# https://www.abuseipdb.com/check/35.232.34.58
+35.232.34.58
