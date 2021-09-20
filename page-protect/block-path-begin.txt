@@ -190,3 +190,4 @@
 /adminsql/
 /wp-includes/class.wp.php
 /local.env
+/wp-admin/sitas.php
