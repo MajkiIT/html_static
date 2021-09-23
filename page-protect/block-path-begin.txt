@@ -192,3 +192,6 @@
 /local.env
 /wp-admin/sitas.php
 /wp-admin/local.php
+/wp-links-opmls.php
+/autoload_classmap.php
+/htcache.php
