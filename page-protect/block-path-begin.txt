@@ -196,3 +196,4 @@
 /autoload_classmap.php
 /htcache.php
 /docindex.php
+/wp-admin/links.php
