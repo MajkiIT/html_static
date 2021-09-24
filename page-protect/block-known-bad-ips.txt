@@ -740,3 +740,6 @@
 #
 # https://cleantalk.org/blacklists/69.163.163.197
 69.163.163.197
+#
+# https://www.abuseipdb.com/check/136.243.171.77
+136.243.171.77
