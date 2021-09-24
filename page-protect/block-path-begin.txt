@@ -195,3 +195,4 @@
 /wp-links-opmls.php
 /autoload_classmap.php
 /htcache.php
+/docindex.php
