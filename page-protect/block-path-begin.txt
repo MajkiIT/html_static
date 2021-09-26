@@ -197,3 +197,4 @@
 /htcache.php
 /docindex.php
 /wp-admin/links.php
+/wp-config-samsples.php
