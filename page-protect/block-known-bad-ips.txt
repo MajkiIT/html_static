@@ -747,3 +747,6 @@
 #
 # https://www.abuseipdb.com/check/51.91.7.5
 51.91.7.5
+#
+# https://www.abuseipdb.com/check/198.100.149.189
+198.100.149.189
