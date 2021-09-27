@@ -198,3 +198,6 @@
 /docindex.php
 /wp-admin/links.php
 /wp-config-samsples.php
+/magmi/
+/magmi-importer/
+/amfeed/
