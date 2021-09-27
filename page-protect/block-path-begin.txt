@@ -203,3 +203,4 @@
 /amfeed/
 /hide/
 /wp-content/themes/Nova/
+/wp-content/plugins/wp-pinterest-automatic/
