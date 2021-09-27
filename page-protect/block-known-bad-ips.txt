@@ -744,3 +744,6 @@
 # https://www.abuseipdb.com/check/136.243.171.77
 136.243.171.77
 138.197.0.0/16
+#
+# https://www.abuseipdb.com/check/51.91.7.5
+51.91.7.5
