@@ -201,3 +201,5 @@
 /magmi/
 /magmi-importer/
 /amfeed/
+/hide/
+/wp-content/themes/Nova/
