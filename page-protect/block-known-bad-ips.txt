@@ -750,3 +750,6 @@
 #
 # https://www.abuseipdb.com/check/198.100.149.189
 198.100.149.189
+#
+# https://www.abuseipdb.com/check/35.225.63.186
+35.225.63.186
