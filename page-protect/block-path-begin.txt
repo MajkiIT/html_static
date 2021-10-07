@@ -204,3 +204,9 @@
 /hide/
 /wp-content/themes/Nova/
 /wp-content/plugins/wp-pinterest-automatic/
+/wp-content/plugins/mstore-api/
+/wp-content/plugins/wp-jobsearch/
+/wp-content/plugins/automatorwp/
+/wp-content/plugins/wp-property/
+/wp-content/plugins/wp-user-manager/
+/wp-content/plugins/access-demo-importer/
