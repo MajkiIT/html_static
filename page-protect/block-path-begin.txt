@@ -211,3 +211,4 @@
 /wp-content/plugins/wp-user-manager/
 /wp-content/plugins/access-demo-importer/
 /info.php
+/.cache.php
