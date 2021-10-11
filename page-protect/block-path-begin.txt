@@ -212,3 +212,4 @@
 /wp-content/plugins/access-demo-importer/
 /info.php
 /.cache.php
+/.well-known/openpgpkey/
