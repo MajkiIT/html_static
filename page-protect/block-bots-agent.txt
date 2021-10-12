@@ -1426,3 +1426,5 @@ Crawling at Home Project (http://cah.io.community)
 axios/0.21.1
 WellKnownBot
 WellKnownBot/0.1; +https://well-known.dev/about/#bot
+FullStoryBot/1.0 (+https://www.fullstory.com)
+FullStoryBot/1.0
