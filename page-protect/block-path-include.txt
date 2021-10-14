@@ -145,3 +145,4 @@ duplicator_download
 /ckfinder/core/connector/php/connector.php
 /config.bak
 /sendgrid.env
+/ups.php
