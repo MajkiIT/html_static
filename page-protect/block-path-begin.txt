@@ -214,3 +214,5 @@
 /.cache.php
 /.well-known/openpgpkey/
 /permalinka/popup-pomo.php
+/citrix/
+/cgi/
