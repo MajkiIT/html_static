@@ -756,3 +756,6 @@
 #
 # https://www.abuseipdb.com/check/217.160.192.177
 217.160.192.177
+#
+# https://www.abuseipdb.com/check/173.239.53.9
+173.239.53.9
