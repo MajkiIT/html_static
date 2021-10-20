@@ -56,3 +56,5 @@
 /custom-image-handler.php
 /wp-admin/css/
 /doc.php
+/wp-sling.php
+/wp-includes/pomo/
