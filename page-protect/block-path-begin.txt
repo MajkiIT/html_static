@@ -121,7 +121,6 @@
 /adminer-
 /web.config
 /humans.txt
-/ads.txt
 /xmlrp.php
 /phpinfo
 /phpinfos.php
