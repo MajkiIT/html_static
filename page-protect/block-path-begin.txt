@@ -30,7 +30,6 @@
 /RELEASE_NOTES.txt
 /TRADEMARK.txt
 /admindede/login.php
-/app-ads.txt
 /atom.xm
 /backup/
 /bak/
