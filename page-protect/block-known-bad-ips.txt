@@ -764,3 +764,6 @@
 # https://www.abuseipdb.com/check/136.243.172.147
 136.243.172.147
 136.243.172.148
+#
+# https://www.abuseipdb.com/check/5.39.20.36
+5.39.20.36
