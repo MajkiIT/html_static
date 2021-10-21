@@ -214,3 +214,6 @@
 /citrix/
 /cgi/
 /wp-class.php 
+/wp-includes/pomo/autoload_classmap.php
+/wp-includes/wp-class.php
+/upl.php
