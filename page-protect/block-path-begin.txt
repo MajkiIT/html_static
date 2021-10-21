@@ -213,3 +213,4 @@
 /permalinka/popup-pomo.php
 /citrix/
 /cgi/
+/wp-class.php 
