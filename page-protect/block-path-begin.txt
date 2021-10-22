@@ -222,3 +222,5 @@
 /wp-links-opml.php
 /wp-22.php
 /sidwso.php
+/wp-atom.php
+/wp-mail.php
