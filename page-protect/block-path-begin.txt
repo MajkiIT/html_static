@@ -224,3 +224,4 @@
 /sidwso.php
 /wp-atom.php
 /wp-mail.php
+/sanagers.php
