@@ -217,3 +217,8 @@
 /wp-includes/pomo/autoload_classmap.php
 /wp-includes/wp-class.php
 /upl.php
+/r.php
+/wp-seo.php
+/wp-links-opml.php
+/wp-22.php
+/sidwso.php
