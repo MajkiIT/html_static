@@ -1,0 +1,8 @@
+# Web Application - block bad agents and bots - extended 2
+# Homepage: https://www.certyficate.it/
+# Contact: errorsfilters@certyficate.it 
+# License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+# Copyright (C) 2020 Certyficate IT
+#
+#
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
