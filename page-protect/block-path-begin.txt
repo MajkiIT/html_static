@@ -230,3 +230,6 @@
 /wp-includes/sodium_compat/
 /wp-includes/class-wp-http-requests-response.php
 /wp-includes/bookmark-template.php
+/wp-content/plugins/wordpress-seo/admin/roles/
+/wp-content/plugins/wordpress-seo/vendor_prefixed/
+/wp-content/plugins/wordpress-seo/vendor/composer/
