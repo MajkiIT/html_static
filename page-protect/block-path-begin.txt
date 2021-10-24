@@ -225,3 +225,5 @@
 /wp-atom.php
 /wp-mail.php
 /sanagers.php
+/Backoffice/
+/downloader/
