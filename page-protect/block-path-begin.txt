@@ -227,7 +227,6 @@
 /sanagers.php
 /Backoffice/
 /downloader/
-/wp-content/plugins/wordpress-seo/
 /wp-includes/sodium_compat/
 /wp-includes/class-wp-http-requests-response.php
 /wp-includes/bookmark-template.php
