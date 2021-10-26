@@ -1428,3 +1428,4 @@ WellKnownBot
 WellKnownBot/0.1; +https://well-known.dev/about/#bot
 FullStoryBot/1.0 (+https://www.fullstory.com)
 FullStoryBot/1.0
+Jersey/2.25.1 (HttpUrlConnection 1.8.0_141)
