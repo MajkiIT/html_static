@@ -234,3 +234,6 @@
 /wp-content/plugins/wordpress-seo/vendor_prefixed/
 /wp-content/plugins/wordpress-seo/vendor/composer/
 /wp-admin/network/
+/wp-setting.php
+/wp-class.php
+/wp-adminn.php
