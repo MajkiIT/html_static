@@ -237,3 +237,5 @@
 /wp-setting.php
 /wp-class.php
 /wp-adminn.php
+/wp-content/plugins/all-in-one-wp-migration/lib/view/main/wordpress-htaccess-notice.php
+/wp-content/plugins/akismet/class.akismet-admin.php
