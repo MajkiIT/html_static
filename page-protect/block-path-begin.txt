@@ -241,3 +241,4 @@
 /wp-content/plugins/akismet/class.akismet-admin.php
 /app-ads.txt
 /ads.txt
+/.well-known/traffic-advice
