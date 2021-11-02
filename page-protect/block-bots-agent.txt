@@ -1430,3 +1430,4 @@ FullStoryBot/1.0 (+https://www.fullstory.com)
 FullStoryBot/1.0
 Jersey/2.25.1 (HttpUrlConnection 1.8.0_141)
 AdsTxtCrawler/1.0; +https://github.com/InteractiveAdvertisingBureau/adstxtcrawler
+Mozilla/5.0 (compatible; Neevabot/1.0; +https://neeva.com/neevabot)
