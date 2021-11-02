@@ -784,3 +784,6 @@
 #
 # https://www.abuseipdb.com/check/93.158.91.249
 93.158.91.249
+#
+# https://www.abuseipdb.com/check/62.171.142.36
+62.171.142.36
