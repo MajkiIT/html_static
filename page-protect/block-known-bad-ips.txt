@@ -790,3 +790,6 @@
 #
 # https://www.abuseipdb.com/check/146.247.137.97
 146.247.137.97
+#
+# https://www.abuseipdb.com/check/154.39.240.140
+154.39.240.140
