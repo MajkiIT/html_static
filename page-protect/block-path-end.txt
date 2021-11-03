@@ -58,3 +58,4 @@
 /doc.php
 /wp-sling.php
 /wp-includes/pomo/
+/ueditor.config.js
