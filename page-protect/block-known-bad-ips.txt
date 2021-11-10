@@ -805,3 +805,6 @@
 #
 # https://www.abuseipdb.com/check/208.113.153.221
 208.113.153.221
+#
+# https://www.abuseipdb.com/check/65.21.206.46
+65.21.206.46
