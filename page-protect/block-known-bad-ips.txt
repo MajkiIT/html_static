@@ -809,3 +809,6 @@
 #
 # https://www.abuseipdb.com/check/65.21.206.46
 65.21.206.46
+#
+# https://www.abuseipdb.com/check/34.207.140.77
+34.207.140.77
