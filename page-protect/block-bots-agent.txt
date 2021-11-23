@@ -1433,3 +1433,4 @@ AdsTxtCrawler/1.0; +https://github.com/InteractiveAdvertisingBureau/adstxtcrawle
 Mozilla/5.0 (compatible; Neevabot/1.0; +https://neeva.com/neevabot)
 ds9 2.000.ec2(+http://www.deepsearchnine.com/ds9.html)
 ReactorNetty/1.0.11
+newspaper/0.2.8
