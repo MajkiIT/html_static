@@ -818,3 +818,6 @@
 #
 # https://www.abuseipdb.com/check/87.117.229.53
 87.117.229.53
+#
+# https://www.abuseipdb.com/check/185.218.124.140
+185.218.124.140
