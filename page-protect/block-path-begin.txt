@@ -244,3 +244,4 @@
 /wp-content/plugins/wp-sitemap-feed/widgets/
 /wp-content/themes/sketch/local.php
 /browserconfig.xml
+/.vscode/
