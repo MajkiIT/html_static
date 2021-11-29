@@ -1435,3 +1435,4 @@ ds9 2.000.ec2(+http://www.deepsearchnine.com/ds9.html)
 ReactorNetty/1.0.11
 newspaper/0.2.8
 ALittle Client
+fasthttp
