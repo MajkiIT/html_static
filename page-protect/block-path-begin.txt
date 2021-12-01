@@ -245,3 +245,4 @@
 /wp-content/themes/sketch/local.php
 /browserconfig.xml
 /.vscode/
+/sonar-project.properties
