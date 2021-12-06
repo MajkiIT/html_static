@@ -830,3 +830,6 @@
 #
 # https://www.abuseipdb.com/check/198.211.113.153
 198.211.113.153
+#
+# https://maltiverse.com/ip/178.18.244.95
+178.18.244.95
