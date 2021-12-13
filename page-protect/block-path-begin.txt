@@ -246,3 +246,4 @@
 /browserconfig.xml
 /.vscode/
 /sonar-project.properties
+/wso.php
