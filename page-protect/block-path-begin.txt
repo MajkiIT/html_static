@@ -247,3 +247,8 @@
 /.vscode/
 /sonar-project.properties
 /wso.php
+/wp-content/plugins/capability-manager-enhanced/common/js/admin.dev.js
+/wp-content/themes/twentynineteen/js/task-check.php
+/wp-json/yoast/v1/ryte
+/wp-json/yoast/v1/statistics
+/wp-content/themes/twentynineteen/sass/site/secondary/index.php
