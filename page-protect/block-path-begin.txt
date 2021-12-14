@@ -252,3 +252,4 @@
 /wp-json/yoast/v1/ryte
 /wp-json/yoast/v1/statistics
 /wp-content/themes/twentynineteen/sass/site/secondary/index.php
+/wp-content/wp-aespa.php
