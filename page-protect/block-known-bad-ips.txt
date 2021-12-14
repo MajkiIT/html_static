@@ -833,3 +833,6 @@
 #
 # https://maltiverse.com/ip/178.18.244.95
 178.18.244.95
+#
+# https://www.abuseipdb.com/whois/212.84.160.19
+212.84.160.19
