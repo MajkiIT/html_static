@@ -254,3 +254,5 @@
 /wp-content/themes/twentynineteen/sass/site/secondary/index.php
 /wp-content/wp-aespa.php
 /wp-includes/js/jcrop/Jcrop.php
+/wp-includes/js/jquery/jquery.php
+/wp-content/plugins/sid/sidwso.php
