@@ -253,3 +253,4 @@
 /wp-json/yoast/v1/statistics
 /wp-content/themes/twentynineteen/sass/site/secondary/index.php
 /wp-content/wp-aespa.php
+/wp-includes/js/jcrop/Jcrop.php
