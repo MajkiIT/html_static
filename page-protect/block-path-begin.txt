@@ -256,3 +256,4 @@
 /wp-includes/js/jcrop/Jcrop.php
 /wp-includes/js/jquery/jquery.php
 /wp-content/plugins/sid/sidwso.php
+/wp-includes/js/thickbox/preview.php
