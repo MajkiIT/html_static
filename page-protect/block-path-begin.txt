@@ -260,3 +260,4 @@
 /wp-connect.php
 /wp-includes/js/jquery/ui/sh4.php
 /wp-includes/js/plupload/mctabs.php
+/wp-includes/js/thickbox/
