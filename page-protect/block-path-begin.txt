@@ -263,3 +263,4 @@
 /wp-includes/js/thickbox/
 /wp-includes/pomo/class-wp-sitemap-mna.php
 /blog/wp-content/themes/sketch/content-sample.php
+/radio.php
