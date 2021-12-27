@@ -146,3 +146,4 @@ duplicator_download
 /config.bak
 /sendgrid.env
 /ups.php
+/wp-aespa.php
