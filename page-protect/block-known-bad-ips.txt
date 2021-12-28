@@ -836,3 +836,6 @@
 #
 # https://www.abuseipdb.com/whois/212.84.160.19
 212.84.160.19
+#
+# https://www.abuseipdb.com/check/172.104.28.114
+172.104.28.114
