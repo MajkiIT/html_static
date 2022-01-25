@@ -842,3 +842,6 @@
 #
 # https://www.abuseipdb.com/check/87.101.94.202
 87.101.94.202
+#
+# https://www.abuseipdb.com/check/200.69.236.71
+200.69.236.71
