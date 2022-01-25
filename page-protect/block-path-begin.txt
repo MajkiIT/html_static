@@ -265,3 +265,4 @@
 /blog/wp-content/themes/sketch/content-sample.php
 /radio.php
 /media-admin.php
+/release.txt
