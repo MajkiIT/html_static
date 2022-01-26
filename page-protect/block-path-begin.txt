@@ -266,3 +266,4 @@
 /radio.php
 /media-admin.php
 /release.txt
+/wp-includes/images/ccx/
