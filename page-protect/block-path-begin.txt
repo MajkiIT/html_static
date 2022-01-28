@@ -267,3 +267,5 @@
 /media-admin.php
 /release.txt
 /wp-includes/images/ccx/
+/adm.php
+/sql.php
