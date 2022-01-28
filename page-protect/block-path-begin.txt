@@ -269,3 +269,12 @@
 /wp-includes/images/ccx/
 /adm.php
 /sql.php
+/env
+/ws_utc/config.do
+/web-console/
+/jmx-console/
+/uddiexplorer/
+/health
+/sqlnet.log
+/javax.faces.resource/
+/jbossws/services
