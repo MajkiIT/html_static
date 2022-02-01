@@ -279,3 +279,4 @@
 /javax.faces.resource/
 /jbossws/services
 /wp_wrong_datlib.php
+/jindex.php
