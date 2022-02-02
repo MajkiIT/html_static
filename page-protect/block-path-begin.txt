@@ -280,3 +280,4 @@
 /jbossws/services
 /wp_wrong_datlib.php
 /jindex.php
+/wp-conflg.php
