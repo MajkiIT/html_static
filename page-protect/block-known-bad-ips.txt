@@ -848,3 +848,6 @@
 #
 # https://www.abuseipdb.com/check/20.210.205.108
 20.210.205.108
+#
+# https://www.abuseipdb.com/check/78.47.80.114
+78.47.80.114
