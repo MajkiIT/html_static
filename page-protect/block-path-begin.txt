@@ -282,3 +282,4 @@
 /jindex.php
 /wp-conflg.php
 /bower.json
+/.bowerrc
