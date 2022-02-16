@@ -851,3 +851,6 @@
 #
 # https://www.abuseipdb.com/check/78.47.80.114
 78.47.80.114
+#
+# https://www.abuseipdb.com/check/65.108.101.14
+65.108.101.14
