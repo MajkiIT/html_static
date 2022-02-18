@@ -283,3 +283,4 @@
 /wp-conflg.php
 /bower.json
 /.bowerrc
+/3index.php
