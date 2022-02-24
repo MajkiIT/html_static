@@ -854,3 +854,6 @@
 #
 # https://www.abuseipdb.com/check/65.108.101.14
 65.108.101.14
+#
+# https://www.abuseipdb.com/check/95.216.246.44
+95.216.246.44
