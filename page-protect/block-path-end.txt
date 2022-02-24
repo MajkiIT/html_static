@@ -59,3 +59,4 @@
 /wp-sling.php
 /wp-includes/pomo/
 /ueditor.config.js
+&client=safari
