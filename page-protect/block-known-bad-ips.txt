@@ -872,3 +872,9 @@
 #
 # https://www.abuseipdb.com/check/185.119.81.100
 185.119.81.0/24
+#
+# https://www.abuseipdb.com/check/208.109.21.182
+208.109.21.182
+#
+# https://www.abuseipdb.com/check/20.38.174.13
+20.38.174.13
