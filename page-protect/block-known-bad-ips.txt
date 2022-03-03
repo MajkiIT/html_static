@@ -890,3 +890,6 @@
 #
 # https://www.abuseipdb.com/check/84.17.59.87
 84.17.59.87
+#
+# https://www.abuseipdb.com/check/189.222.144.226
+189.222.144.226
