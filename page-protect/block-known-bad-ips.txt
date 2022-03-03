@@ -893,3 +893,9 @@
 #
 # https://www.abuseipdb.com/check/189.222.144.226
 189.222.144.226
+#
+# https://www.abuseipdb.com/check/216.117.141.153\
+216.117.141.153
+#
+# https://www.abuseipdb.com/check/193.106.130.133
+193.106.130.133
