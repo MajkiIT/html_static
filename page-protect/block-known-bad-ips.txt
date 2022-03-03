@@ -881,3 +881,6 @@
 #
 # https://www.abuseipdb.com/check/20.127.79.104
 20.127.79.104
+#
+# https://www.abuseipdb.com/check/134.122.8.105
+134.122.8.105
