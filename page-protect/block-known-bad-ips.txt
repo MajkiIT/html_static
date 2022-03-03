@@ -884,3 +884,6 @@
 #
 # https://www.abuseipdb.com/check/134.122.8.105
 134.122.8.105
+#
+# https://www.abuseipdb.com/check/20.120.21.52
+20.120.21.52
