@@ -902,3 +902,6 @@
 #
 # https://www.abuseipdb.com/check/52.179.103.185
 52.179.103.185
+#
+# https://www.abuseipdb.com/check/88.150.240.30
+88.150.240.30
