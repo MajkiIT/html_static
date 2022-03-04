@@ -285,3 +285,6 @@
 /.bowerrc
 /3index.php
 /sftp-config.json
+/.remote
+/.production
+/.local
