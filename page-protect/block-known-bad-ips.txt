@@ -899,3 +899,6 @@
 #
 # https://www.abuseipdb.com/check/193.106.130.133
 193.106.130.133
+#
+# https://www.abuseipdb.com/check/52.179.103.185
+52.179.103.185
