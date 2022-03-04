@@ -284,3 +284,4 @@
 /bower.json
 /.bowerrc
 /3index.php
+/sftp-config.json
