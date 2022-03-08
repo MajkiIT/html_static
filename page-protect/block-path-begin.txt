@@ -239,7 +239,6 @@
 /wp-content/plugins/all-in-one-wp-migration/lib/view/main/wordpress-htaccess-notice.php
 /wp-content/plugins/akismet/class.akismet-admin.php
 /app-ads.txt
-/ads.txt
 /.well-known/traffic-advice
 /wp-content/plugins/wp-sitemap-feed/widgets/
 /wp-content/themes/sketch/local.php
