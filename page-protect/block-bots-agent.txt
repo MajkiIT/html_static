@@ -1438,3 +1438,4 @@ fasthttp
 ultimate_sitemap_parser/0.5
 wp_is_mobile
 WebSpider 1.0
+downnotifier.com monitoring
