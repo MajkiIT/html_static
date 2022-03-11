@@ -1440,3 +1440,4 @@ wp_is_mobile
 WebSpider 1.0
 downnotifier.com monitoring
 python-requests/2.26.0
+DnBCrawler-Analytics
