@@ -922,3 +922,6 @@
 #
 # https://www.abuseipdb.com/check/89.187.168.42
 89.187.168.42
+#
+# https://www.abuseipdb.com/check/20.125.119.248
+20.125.119.248
