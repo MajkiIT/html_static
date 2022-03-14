@@ -925,3 +925,6 @@
 #
 # https://www.abuseipdb.com/check/20.125.119.248
 20.125.119.248
+#
+# https://www.abuseipdb.com/check/20.119.37.212
+20.119.37.212
