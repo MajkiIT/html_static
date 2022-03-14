@@ -928,3 +928,6 @@
 #
 # https://www.abuseipdb.com/check/20.119.37.212
 20.119.37.212
+#
+# https://www.abuseipdb.com/check/185.177.25.40
+185.177.25.40
