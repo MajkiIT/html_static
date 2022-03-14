@@ -931,3 +931,6 @@
 #
 # https://www.abuseipdb.com/check/185.177.25.40
 185.177.25.40
+#
+# https://www.abuseipdb.com/check/212.83.186.41
+212.83.186.41
