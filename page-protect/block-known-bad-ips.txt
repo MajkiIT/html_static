@@ -940,3 +940,6 @@
 #
 # https://www.abuseipdb.com/check/157.245.207.228
 157.245.207.228
+#
+# https://www.abuseipdb.com/check/185.188.61.116
+185.188.61.116
