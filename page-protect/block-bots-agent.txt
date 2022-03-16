@@ -1441,3 +1441,4 @@ WebSpider 1.0
 downnotifier.com monitoring
 python-requests/2.26.0
 DnBCrawler-Analytics
+Python/3.9 aiohttp/3.8.1
