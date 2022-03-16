@@ -943,3 +943,7 @@
 #
 # https://www.abuseipdb.com/check/185.188.61.116
 185.188.61.116
+#
+# https://www.abuseipdb.com/check/109.70.148.47
+109.70.148.47
+109.70.148.48
