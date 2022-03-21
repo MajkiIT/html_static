@@ -286,3 +286,5 @@
 /.production
 /.local
 /css/load.php
+/alwso.php
+/local.php
