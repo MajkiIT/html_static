@@ -288,3 +288,4 @@
 /css/load.php
 /alwso.php
 /local.php
+/wp-content/patior/index.php
