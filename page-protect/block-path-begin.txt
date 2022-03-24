@@ -290,3 +290,4 @@
 /local.php
 /wp-content/patior/index.php
 /contents.php
+/wp-includes/SimplePie/
