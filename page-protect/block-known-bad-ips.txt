@@ -956,3 +956,6 @@
 #
 # https://www.abuseipdb.com/check/173.231.60.196
 173.231.60.0/24
+#
+# https://www.abuseipdb.com/check/20.225.208.28
+20.225.208.28
