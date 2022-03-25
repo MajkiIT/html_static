@@ -291,3 +291,5 @@
 /wp-content/patior/index.php
 /contents.php
 /wp-includes/SimplePie/
+/wp-config.inc
+/_wpeprivate/config.json
