@@ -962,3 +962,6 @@
 #
 # https://www.abuseipdb.com/check/45.79.86.237
 45.79.86.237
+#
+# https://www.abuseipdb.com/check/45.77.45.246
+45.77.45.246
