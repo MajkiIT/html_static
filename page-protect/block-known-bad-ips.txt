@@ -959,3 +959,6 @@
 #
 # https://www.abuseipdb.com/check/20.225.208.28
 20.225.208.28
+#
+# https://www.abuseipdb.com/check/45.79.86.237
+45.79.86.237
