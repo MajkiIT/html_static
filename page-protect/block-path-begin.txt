@@ -294,3 +294,4 @@
 /wp-config.inc
 /_wpeprivate/config.json
 /license.txt
+/wp-admins.php
