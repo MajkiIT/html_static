@@ -295,3 +295,5 @@
 /_wpeprivate/config.json
 /license.txt
 /wp-admins.php
+/xleet.php
+/sh3llx.php
