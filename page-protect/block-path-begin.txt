@@ -302,3 +302,5 @@
 /logs.php
 /wp-fox.php
 /wp-2019.php
+/wp-ad.php
+/wp-file.php
