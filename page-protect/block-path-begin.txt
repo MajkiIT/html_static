@@ -304,3 +304,4 @@
 /wp-2019.php
 /wp-ad.php
 /wp-file.php
+/takeout.php 
