@@ -297,3 +297,8 @@
 /wp-admins.php
 /xleet.php
 /sh3llx.php
+/auto-seo.php
+/wp-system.php
+/logs.php
+/wp-fox.php
+/wp-2019.php
