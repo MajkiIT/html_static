@@ -307,3 +307,4 @@
 /takeout.php
 /wp-includes/css/css.php
 /wp-includes/images/css.php
+/en/data-protection-ip/
