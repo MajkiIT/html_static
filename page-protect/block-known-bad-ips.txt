@@ -968,3 +968,6 @@
 #
 # https://www.abuseipdb.com/check/15.235.35.18
 15.235.35.18
+#
+# https://www.abuseipdb.com/check/20.114.168.184
+20.114.168.184
