@@ -310,3 +310,12 @@
 /en/data-protection-ip/
 /wp-content/uploads/cache/fvm/
 /backups/
+/xleet-shell.php
+/takeout.php
+/sh3llx.php
+/xleet.php
+/default.asp
+/home.php
+/guestbook.php
+/scarbook.php
+/jax_guestbook.php
