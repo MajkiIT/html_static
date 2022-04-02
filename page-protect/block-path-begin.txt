@@ -311,6 +311,7 @@
 /wp-content/uploads/cache/fvm/
 /backups/
 /xleet-shell.php
+/xlet.php
 /takeout.php
 /sh3llx.php
 /xleet.php
