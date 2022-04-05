@@ -321,3 +321,5 @@
 /scarbook.php
 /jax_guestbook.php
 /te3/signup.php
+/filemanager/dialog.php
+/assets/filemanager/dialog.php 
