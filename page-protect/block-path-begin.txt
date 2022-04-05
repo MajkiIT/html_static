@@ -320,3 +320,4 @@
 /guestbook.php
 /scarbook.php
 /jax_guestbook.php
+/te3/signup.php
