@@ -148,3 +148,4 @@ duplicator_download
 /ups.php
 /wp-aespa.php
 /filemanager/dialog.php
+/wpconfig.bak
