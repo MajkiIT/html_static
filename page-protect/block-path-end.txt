@@ -61,3 +61,4 @@
 /ueditor.config.js
 &client=safari
 .dat
+/license.txt
