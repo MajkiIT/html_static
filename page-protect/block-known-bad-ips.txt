@@ -972,5 +972,5 @@
 # https://www.abuseipdb.com/check/20.114.168.184
 20.114.168.184
 #
-# https://www.abuseipdb.com/check/20.114.168.184
-20.114.168.184
+# https://www.abuseipdb.com/check/107.151.137.69
+107.151.137.69
