@@ -324,3 +324,6 @@
 /filemanager/dialog.php
 /assets/filemanager/dialog.php 
 /wp-content/plugins/tatsu/
+/archives.php
+/wikindex.php
+/beence.php
