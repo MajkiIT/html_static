@@ -328,3 +328,4 @@
 /wikindex.php
 /beence.php
 /wp-config.good
+/ueditor/
