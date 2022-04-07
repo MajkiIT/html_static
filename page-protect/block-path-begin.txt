@@ -327,3 +327,4 @@
 /archives.php
 /wikindex.php
 /beence.php
+/wp-config.good
