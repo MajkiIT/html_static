@@ -329,3 +329,6 @@
 /beence.php
 /wp-config.good
 /ueditor/
+/btc/
+/wallet.tar.gz
+/wallet/
