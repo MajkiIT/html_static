@@ -332,3 +332,5 @@
 /btc/
 /wallet.tar.gz
 /wallet/
+/adminpanel/
+/adm/
