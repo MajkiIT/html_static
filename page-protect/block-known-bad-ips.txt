@@ -1003,3 +1003,6 @@
 #
 # https://www.abuseipdb.com/check/13.90.245.157
 13.90.245.157
+#
+# https://www.abuseipdb.com/check/157.245.166.225
+157.245.166.225
