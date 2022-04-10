@@ -64,3 +64,4 @@
 /license.txt
 .ashx
 .good
+/webpack.config.js
