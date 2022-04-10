@@ -1006,3 +1006,6 @@
 #
 # https://www.abuseipdb.com/check/157.245.166.225
 157.245.166.225
+#
+# https://www.abuseipdb.com/check/20.123.16.182
+20.123.16.182
