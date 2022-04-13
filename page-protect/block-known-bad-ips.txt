@@ -1009,3 +1009,6 @@
 #
 # https://www.abuseipdb.com/check/20.123.16.182
 20.123.16.182
+#
+# https://www.abuseipdb.com/check/37.120.152.36
+37.120.152.36
