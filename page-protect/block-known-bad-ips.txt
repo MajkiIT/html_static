@@ -1015,3 +1015,6 @@
 #
 # https://www.abuseipdb.com/check/20.109.7.39
 20.109.7.39
+#
+# https://www.abuseipdb.com/check/143.198.24.211
+143.198.24.211
