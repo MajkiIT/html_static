@@ -1018,3 +1018,6 @@
 #
 # https://www.abuseipdb.com/check/143.198.24.211
 143.198.24.211
+#
+# https://www.abuseipdb.com/check/62.197.136.188
+62.197.136.188
