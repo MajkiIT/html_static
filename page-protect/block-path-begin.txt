@@ -338,3 +338,4 @@
 /wp-admin/patior/index.php
 /wp-includes/js/tinymce/plugins/paste/index.php
 /wp-content/themes/twentyfive/include.php
+/wp-admin/includes/about.php
