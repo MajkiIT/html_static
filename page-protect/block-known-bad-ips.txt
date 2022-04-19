@@ -1024,3 +1024,6 @@
 #
 # https://www.abuseipdb.com/check/176.36.89.231
 176.36.89.231
+#
+# https://www.abuseipdb.com/check/87.117.234.60
+87.117.234.60
