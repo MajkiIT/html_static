@@ -341,3 +341,4 @@
 /wp-admin/includes/about.php
 /wp-content/plugins/simple-css-editor/customize/css-manager.php
 /owa/auth.owa
+/app/vendor/phpunit/phpunit/src/Util/PHP/evil.php
