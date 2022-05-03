@@ -1036,3 +1036,6 @@
 #
 # https://www.abuseipdb.com/check/80.84.57.6
 80.84.57.6
+#
+# https://www.abuseipdb.com/check/37.120.143.148
+37.120.143.148
