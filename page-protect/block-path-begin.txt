@@ -344,3 +344,4 @@
 /app/vendor/phpunit/phpunit/src/Util/PHP/evil.php
 /css/index.php
 /wp-admin/ffAA531.php
+/_profiler/
