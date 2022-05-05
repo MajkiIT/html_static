@@ -66,3 +66,4 @@
 .good
 /webpack.config.js
 /FoxWSOv1.php
+/wp-content/
