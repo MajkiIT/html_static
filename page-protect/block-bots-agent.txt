@@ -1454,5 +1454,4 @@ Python/3.8 aiohttp/3.8.1
 fasthttp
 Mozilla/5.0 (compatible; ev-crawler/1.0; +https://headline.com/legal/crawler)
 Mozilla/5.0 (compatible; YetiBOT/0.1b; +http://yetibot.ovh)
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S; 77d782d903) Chrome/84.0.4147.105 Safari/537.36
 adstxtlab.com Crawler
