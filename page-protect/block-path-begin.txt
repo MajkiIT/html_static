@@ -347,3 +347,4 @@
 /_profiler/
 /vim/patior/index.php
 /wp-content/languages/plugins/index.php
+/radio.txt
