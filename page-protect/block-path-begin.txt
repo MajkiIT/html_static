@@ -345,3 +345,5 @@
 /css/index.php
 /wp-admin/ffAA531.php
 /_profiler/
+/vim/patior/index.php
+/wp-content/languages/plugins/index.php
