@@ -348,3 +348,5 @@
 /vim/patior/index.php
 /wp-content/languages/plugins/index.php
 /radio.txt
+/wp-admin/maint/ccx/index.php
+/wp-admin/shell20211028.php
