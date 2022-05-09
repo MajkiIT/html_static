@@ -1455,3 +1455,4 @@ fasthttp
 Mozilla/5.0 (compatible; ev-crawler/1.0; +https://headline.com/legal/crawler)
 Mozilla/5.0 (compatible; YetiBOT/0.1b; +http://yetibot.ovh)
 adstxtlab.com Crawler
+DAutoBot/0.7.2
