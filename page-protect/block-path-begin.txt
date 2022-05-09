@@ -351,3 +351,4 @@
 /wp-admin/maint/ccx/index.php
 /wp-admin/shell20211028.php
 /wp-includes/php-compat/ccx/index.php
+/drawer.css.map
