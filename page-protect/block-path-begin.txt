@@ -353,3 +353,4 @@
 /wp-includes/php-compat/ccx/index.php
 /drawer.css.map
 /admin/login.php
+/old_phpinfo.php
