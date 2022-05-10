@@ -352,3 +352,4 @@
 /wp-admin/shell20211028.php
 /wp-includes/php-compat/ccx/index.php
 /drawer.css.map
+/admin/login.php
