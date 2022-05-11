@@ -354,3 +354,4 @@
 /drawer.css.map
 /admin/login.php
 /old_phpinfo.php
+/wp-admin/user/ccx/index.php
