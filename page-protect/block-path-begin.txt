@@ -359,3 +359,9 @@
 /core/includes/bootstrap.inc
 /wp-admin/ccx/index.php
 /auth_log.php
+/wp-content/plugins/BrutalShell/wp.php
+/wp-content/plugins/wordpress/aya.php
+/wp-includes/assets/aya.php:youdermatologia.com.br
+/wp-content/plugins/wpyii2/wpyii2.php
+/wp-content/plugins/dos2unix/dos2unix.php
+/wp-content/plugins/unicode/cgi.php
