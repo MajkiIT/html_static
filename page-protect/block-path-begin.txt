@@ -357,3 +357,5 @@
 /wp-admin/user/ccx/index.php
 /includes/bootstrap.inc
 /core/includes/bootstrap.inc
+/wp-admin/ccx/index.php
+/auth_log.php
