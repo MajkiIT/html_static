@@ -365,3 +365,5 @@
 /wp-content/plugins/wpyii2/wpyii2.php
 /wp-content/plugins/dos2unix/dos2unix.php
 /wp-content/plugins/unicode/cgi.php
+/css/votes.php
+/slicemap.php
