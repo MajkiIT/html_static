@@ -367,3 +367,4 @@
 /wp-content/plugins/unicode/cgi.php
 /css/votes.php
 /slicemap.php
+/wp-content/themes/ccx/index.php
