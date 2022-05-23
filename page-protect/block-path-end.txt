@@ -67,3 +67,4 @@
 /webpack.config.js
 /FoxWSOv1.php
 /wp-content/
+/ccx/index.php
