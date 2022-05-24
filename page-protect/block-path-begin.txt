@@ -368,3 +368,4 @@
 /css/votes.php
 /slicemap.php
 /wp-content/themes/ccx/index.php
+/wp-commentin.php:cursosabersempre.com.br
