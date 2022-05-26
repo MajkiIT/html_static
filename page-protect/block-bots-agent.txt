@@ -1462,3 +1462,4 @@ drupalgeddon2
 Mozilla/5.0 (compatible; proximic; +http://www.proximic.com/info/spider.php)
 Scribbr-Citation-Bot
 Mozilla/5.0 (compatible; YetiBOT/0.1b; +http://yetibot.ovh)
+Bidtellect/0.0.924.0
