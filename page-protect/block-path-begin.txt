@@ -371,3 +371,4 @@
 /wp-commentin.php:cursosabersempre.com.br
 /wp-content/alfacgiapi/
 /atom/
+/credentials
