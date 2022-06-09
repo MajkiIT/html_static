@@ -372,3 +372,4 @@
 /wp-content/alfacgiapi/
 /atom/
 /credentials
+/wp-admin/maint/about.php
