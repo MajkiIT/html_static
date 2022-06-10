@@ -373,3 +373,4 @@
 /atom/
 /credentials
 /wp-admin/maint/about.php
+/humans.txt
