@@ -375,3 +375,4 @@
 /wp-admin/maint/about.php
 /humans.txt
 /wp-includes/Text/index.php
+/CHANGELOG.md
