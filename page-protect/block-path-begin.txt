@@ -377,3 +377,4 @@
 /wp-includes/Text/index.php
 /CHANGELOG.md
 /src/environments/environment.ts
+/my_alfa.php
