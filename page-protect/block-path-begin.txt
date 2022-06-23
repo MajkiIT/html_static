@@ -378,3 +378,4 @@
 /CHANGELOG.md
 /src/environments/environment.ts
 /my_alfa.php
+/wp-admin/css/colors/blue/index.php
