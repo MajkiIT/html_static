@@ -381,3 +381,4 @@
 /wp-admin/css/colors/blue/index.php
 /FileZilla.xml
 /JST10x.php
+/wp-coreutils.php
