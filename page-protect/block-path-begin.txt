@@ -382,3 +382,4 @@
 /FileZilla.xml
 /JST10x.php
 /wp-coreutils.php
+/dem/wp-login.php
