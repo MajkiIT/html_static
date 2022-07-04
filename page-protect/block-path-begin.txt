@@ -383,3 +383,6 @@
 /JST10x.php
 /wp-coreutils.php
 /dem/wp-login.php
+/app_dev.php/
+/config.env
+/web/app_dev.php/
