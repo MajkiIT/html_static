@@ -149,3 +149,4 @@ duplicator_download
 /wp-aespa.php
 /filemanager/dialog.php
 /wpconfig.bak
+/alfa_data/
