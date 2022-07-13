@@ -390,3 +390,4 @@
 /wp-content/class-wp-type-registroy.php
 /inc/f.php
 /.aws.credentials
+/leafmailer2.8.php
