@@ -389,3 +389,4 @@
 /wp-content/uploads/class-wp-type-registroy.php
 /wp-content/class-wp-type-registroy.php
 /inc/f.php
+/.aws.credentials
