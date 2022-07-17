@@ -391,3 +391,4 @@
 /inc/f.php
 /.aws.credentials
 /leafmailer2.8.php
+/wp-content/plugins/dzs-zoomsounds/
