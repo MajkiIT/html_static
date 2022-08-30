@@ -1467,3 +1467,4 @@ Nimo Software HTTP Retriever 1.0
 Bidtellect/0.0.934.0
 Sellers.Guide Crawler by Primis
 Python/3.10 aiohttp/3.8.1
+axios/0.24.0
