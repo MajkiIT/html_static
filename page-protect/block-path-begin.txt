@@ -393,3 +393,4 @@
 /leafmailer2.8.php
 /wp-content/plugins/dzs-zoomsounds/
 /cpanel
+/conf/config.php.bck
