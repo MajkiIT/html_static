@@ -271,7 +271,6 @@
 /web-console/
 /jmx-console/
 /uddiexplorer/
-/health
 /sqlnet.log
 /javax.faces.resource/
 /jbossws/services
