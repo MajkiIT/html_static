@@ -68,3 +68,4 @@
 /FoxWSOv1.php
 /wp-content/
 /ccx/index.php
+.tgz
