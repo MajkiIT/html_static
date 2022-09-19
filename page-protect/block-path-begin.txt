@@ -395,3 +395,6 @@
 /conf/config.php.bck
 /e/data/js/ajax.js
 /admin/index.php
+/wp-admin/radio.php
+/wp-admin/fw.php
+/wp-admin/css/fw.php
