@@ -398,3 +398,4 @@
 /wp-admin/radio.php
 /wp-admin/fw.php
 /wp-admin/css/fw.php
+/wp-config
