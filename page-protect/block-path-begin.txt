@@ -400,3 +400,4 @@
 /wp-admin/css/fw.php
 /wp-config
 /.awscredentials
+/app-ads.txt
