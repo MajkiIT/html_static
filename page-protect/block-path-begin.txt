@@ -401,3 +401,4 @@
 /wp-config
 /.awscredentials
 /app-ads.txt
+/archivarix.cms.php
