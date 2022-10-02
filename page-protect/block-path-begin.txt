@@ -402,3 +402,4 @@
 /.awscredentials
 /app-ads.txt
 /archivarix.cms.php
+/administrator/index.php
