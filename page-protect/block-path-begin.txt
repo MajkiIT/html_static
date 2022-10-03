@@ -403,3 +403,4 @@
 /app-ads.txt
 /archivarix.cms.php
 /administrator/index.php
+/_vti_pvt/service.cnf
