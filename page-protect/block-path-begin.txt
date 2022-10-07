@@ -405,3 +405,4 @@
 /administrator/index.php
 /_vti_pvt/service.cnf
 /css/album.css
+/security.txt
