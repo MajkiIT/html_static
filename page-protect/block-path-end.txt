@@ -70,3 +70,5 @@
 /ccx/index.php
 .tgz
 .sql.tar
+/radio.php
+/wikindex.php
