@@ -406,3 +406,4 @@
 /_vti_pvt/service.cnf
 /css/album.css
 /security.txt
+/php.php
