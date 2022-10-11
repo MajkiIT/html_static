@@ -407,3 +407,4 @@
 /css/album.css
 /security.txt
 /php.php
+/wp-admin/auto_seo.php
