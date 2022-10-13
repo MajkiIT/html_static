@@ -410,3 +410,5 @@
 /wp-admin/auto_seo.php
 /.docker/
 /.config/
+/mysql.php
+/ad.php
