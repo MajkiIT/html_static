@@ -412,3 +412,7 @@
 /.config/
 /mysql.php
 /ad.php
+/stream/live.php
+/system_api.php
+/streaming/clients_live.php
+/stalker_portal/
