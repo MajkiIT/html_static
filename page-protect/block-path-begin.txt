@@ -416,3 +416,5 @@
 /system_api.php
 /streaming/clients_live.php
 /stalker_portal/
+/js/envConfig.js
+/js/config.js
