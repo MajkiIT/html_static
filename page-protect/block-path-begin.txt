@@ -418,3 +418,4 @@
 /stalker_portal/
 /js/envConfig.js
 /js/config.js
+/cart.json
