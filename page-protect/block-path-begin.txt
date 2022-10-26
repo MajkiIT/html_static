@@ -419,3 +419,4 @@
 /js/envConfig.js
 /js/config.js
 /cart.json
+/phpminiadmin.php
