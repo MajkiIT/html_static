@@ -420,3 +420,6 @@
 /js/config.js
 /cart.json
 /phpminiadmin.php
+/defau1t.php
+/defaul1.php
+/defau11.php
