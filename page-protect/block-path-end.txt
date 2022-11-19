@@ -72,3 +72,4 @@
 .sql.tar
 /radio.php
 /wikindex.php
+/wplogin.php
