@@ -423,3 +423,11 @@
 /defau1t.php
 /defaul1.php
 /defau11.php
+/controlpanel
+/serverlogin
+/ccms/
+/adminLogin/
+/wp-login
+/showlogin/
+/maintenance/
+/_adm/
