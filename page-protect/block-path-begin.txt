@@ -126,7 +126,6 @@
 /config/aws.yml
 /.credentials
 /phpinfo.php
-/cache/
 /wp-content/db-cache.php
 /sitemap.txt
 /sitemap.xml.gz
