@@ -430,3 +430,6 @@
 /showlogin/
 /maintenance/
 /_adm/
+/requirements.php
+/test.php
+/test2.php
