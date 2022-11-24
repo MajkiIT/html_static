@@ -81,7 +81,6 @@
 /id_rsa.pub
 /lib/phpunit/Util/PHP/eval-stdin.php
 /lib/phpunit/phpunit/Util/PHP/eval-stdin.php
-/manager/
 /myadmin/
 /package-lock.json
 /package.json
