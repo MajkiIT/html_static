@@ -433,3 +433,7 @@
 /requirements.php
 /test.php
 /test2.php
+/license.php
+/public/403.php
+/xltavrat.php
+/marijuana.php
