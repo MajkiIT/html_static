@@ -73,3 +73,5 @@
 /radio.php
 /wikindex.php
 /wplogin.php
+/mar.php
+/about.php
