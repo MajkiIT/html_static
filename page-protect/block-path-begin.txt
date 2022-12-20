@@ -437,3 +437,4 @@
 /public/403.php
 /xltavrat.php
 /marijuana.php
+/.ftpconfig
