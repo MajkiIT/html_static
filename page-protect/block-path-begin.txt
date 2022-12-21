@@ -438,3 +438,4 @@
 /xltavrat.php
 /marijuana.php
 /.ftpconfig
+/yealink/
