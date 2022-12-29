@@ -439,3 +439,4 @@
 /marijuana.php
 /.ftpconfig
 /yealink/
+/adminer/
