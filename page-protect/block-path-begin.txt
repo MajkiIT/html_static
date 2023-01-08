@@ -442,3 +442,5 @@
 /adminer/
 /robot1.php
 /xxxss
+/webpage.php
+/webpage2.php
