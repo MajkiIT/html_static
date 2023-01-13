@@ -446,3 +446,4 @@
 /webpage2.php
 /c/version.js
 /flu/403.html
+/cart.php
