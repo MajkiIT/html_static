@@ -77,3 +77,4 @@
 /about.php
 /doc
 /doc.json
+/phpunit
