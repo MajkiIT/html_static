@@ -1477,3 +1477,6 @@ Installatron Plugin
 Wget/1.20.3 (mingw32)
 newspaper/0.2.8
 Foregenix
+PhantomBot/1.0
+IonCraw
+Python/3.8 aiohttp/3.8
