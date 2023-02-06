@@ -448,3 +448,5 @@
 /flu/403.html
 /cart.php
 /category/apteo.pl
+/wp-setups.php
+/wp-reset.php
