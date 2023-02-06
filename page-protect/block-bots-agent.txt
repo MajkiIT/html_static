@@ -1480,3 +1480,4 @@ Foregenix
 PhantomBot/1.0
 IonCraw
 Python/3.8 aiohttp/3.8
+Chanty-URL-Inspector
