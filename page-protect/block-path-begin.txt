@@ -450,3 +450,4 @@
 /category/apteo.pl
 /wp-setups.php
 /wp-reset.php
+/wp-content/plugins/tenweb-speed-optimizer/assets/js/
