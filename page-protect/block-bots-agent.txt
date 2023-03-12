@@ -1482,3 +1482,4 @@ IonCraw
 Python/3.8 aiohttp/3.8
 Chanty-URL-Inspector
 GuzzleHttp/7
+BSbot 1.1
