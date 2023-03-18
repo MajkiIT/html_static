@@ -453,3 +453,5 @@
 /wp-content/plugins/tenweb-speed-optimizer/assets/js/
 /e/admin/index.php
 /Workflow/AllDocuments/
+/index_sso.php
+/PhpMyAdmin/index.php
