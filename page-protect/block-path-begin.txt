@@ -456,3 +456,4 @@
 /index_sso.php
 /PhpMyAdmin/index.php
 /my-account/edit-account/
+/Microsoft-Server-ActiveSync
