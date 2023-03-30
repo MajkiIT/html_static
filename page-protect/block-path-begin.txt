@@ -457,3 +457,7 @@
 /PhpMyAdmin/index.php
 /my-account/edit-account/
 /Microsoft-Server-ActiveSync
+/leafmailer.php
+/skipper.php
+/uploader.php
+/alfashell.php
