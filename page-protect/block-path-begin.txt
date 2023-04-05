@@ -461,3 +461,5 @@
 /skipper.php
 /uploader.php
 /alfashell.php
+/wp-content/plugins/core-engine/index.php
+/wp-content/plugins/core-stab/index.php
