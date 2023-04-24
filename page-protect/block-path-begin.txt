@@ -464,3 +464,4 @@
 /wp-content/plugins/core-engine/index.php
 /wp-content/plugins/core-stab/index.php
 /wp-content/plugins/core-builder/index.php
+/sftp.json
