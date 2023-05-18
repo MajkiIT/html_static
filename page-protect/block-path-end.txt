@@ -80,3 +80,4 @@
 /phpunit
 /ya.ru
 /cart
+/hellopress/wp_mna.php
