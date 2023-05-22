@@ -467,3 +467,4 @@
 /sftp.json
 /wp-sales.js
 /wp-sale.js
+/.wp-config
