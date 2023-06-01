@@ -83,3 +83,4 @@
 /hellopress/wp_mna.php
 /security
 /bug-bounty
+.pwd
