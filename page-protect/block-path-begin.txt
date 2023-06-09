@@ -469,3 +469,4 @@
 /wp-sale.js
 /.wp-config
 /ai.txt
+/mail/config-v
