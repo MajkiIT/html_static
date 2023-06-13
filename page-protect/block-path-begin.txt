@@ -470,3 +470,4 @@
 /.wp-config
 /ai.txt
 /mail/config-v
+/_temp_/
