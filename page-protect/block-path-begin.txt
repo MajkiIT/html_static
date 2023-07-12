@@ -471,3 +471,7 @@
 /ai.txt
 /mail/config-v
 /_temp_/
+/api/sonicos/tfa
+/wsman
+/auth.html
+/sslvpnLogin.html
