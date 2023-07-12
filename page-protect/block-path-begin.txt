@@ -475,3 +475,4 @@
 /wsman
 /auth.html
 /sslvpnLogin.html
+/wp-includes/fresh1.php
