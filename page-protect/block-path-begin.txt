@@ -477,3 +477,4 @@
 /sslvpnLogin.html
 /wp-includes/fresh1.php
 /wp-content/plugins/user-registration/assets/css/user-registration.css
+/wp-content/plugins/ht-mega-for-elementor/assets/css/htbbootstrap.css
