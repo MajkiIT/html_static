@@ -479,3 +479,4 @@
 /wp-content/plugins/user-registration/assets/css/user-registration.css
 /wp-content/plugins/ht-mega-for-elementor/assets/css/htbbootstrap.css
 /tojestpodstronaz404doskopiowania
+/wp-admin/includes/core.php
