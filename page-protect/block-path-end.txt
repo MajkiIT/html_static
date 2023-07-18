@@ -85,3 +85,4 @@
 /bug-bounty
 .pwd
 /repeater.php
+/core.php
