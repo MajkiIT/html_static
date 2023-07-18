@@ -86,3 +86,4 @@
 .pwd
 /repeater.php
 /core.php
+/up.php
