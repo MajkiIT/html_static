@@ -10033,3 +10033,4 @@
 5.173.31.8 # scanning kariera neuca
 31.0.23.98 # scanning kariera neuca
 103.101.202.129  # wordpress scanning
+178.42.100.28 # scanning kariera neuca
