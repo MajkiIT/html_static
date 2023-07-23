@@ -10021,3 +10021,12 @@
 148.66.145.14
 188.165.226.175
 51.38.134.68
+172.105.83.62 # wordpress scanning
+134.147.198.125 # fake bot
+34.23.182.252 # ip scanning
+202.125.43.52 # wordpress scanning
+3.109.241.227 # wordpress scanning
+194.195.241.58 # wordpress scanning
+46.235.42.137 # wordpress scanning
+37.97.177.232 # wordpress scanning
+144.24.154.203 # wordpress scanning
