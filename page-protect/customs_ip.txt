@@ -10038,3 +10038,4 @@
 178.42.100.249 # scanning kariera neuca
 5.173.153.15 # scanning kariera neuca
 79.185.111.98 # scanning kariera neuca
+35.227.152.74 # page scanning 
