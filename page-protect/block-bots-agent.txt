@@ -1489,3 +1489,4 @@ Node/simplecrawler
 Scrapy
 ecotrek
 okhttp
+lunabot
