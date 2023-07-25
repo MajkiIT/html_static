@@ -10039,3 +10039,7 @@
 5.173.153.15 # scanning kariera neuca
 79.185.111.98 # scanning kariera neuca
 35.227.152.74 # page scanning 
+158.69.28.70 # page scanning 
+116.0.23.212 # page scanning 
+34.75.130.225 # ip scanning
+35.227.152.74 # page scanning 
