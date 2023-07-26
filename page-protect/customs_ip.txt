@@ -10064,3 +10064,7 @@
 139.162.171.64 # page scanning 
 139.162.171.181 # page scanning 
 139.162.171.148 # page scanning 
+47.89.193.162 # page scanning 
+199.195.253.110 # page scanning 
+207.154.217.126 # page scanning 
+135.125.205.117 # page scanning
