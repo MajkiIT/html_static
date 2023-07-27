@@ -87,3 +87,4 @@
 /repeater.php
 /core.php
 /up.php
+/atomlib.php
