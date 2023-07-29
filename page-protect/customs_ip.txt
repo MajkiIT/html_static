@@ -10075,3 +10075,6 @@
 110.159.154.109 # page scanning
 196.51.249.14 # page scanning
 185.225.234.0/24 # Hong Kong
+34.23.149.19 # page scanning
+205.234.21.92 # page scanning
+176.58.116.190 # page scanning
