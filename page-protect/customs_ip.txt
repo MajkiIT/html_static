@@ -10078,3 +10078,5 @@
 34.23.149.19 # page scanning
 205.234.21.92 # page scanning
 176.58.116.190 # page scanning
+16.171.114.23  # page scanning
+20.2.82.110  # page scanning
