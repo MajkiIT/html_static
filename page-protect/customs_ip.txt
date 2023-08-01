@@ -10101,3 +10101,4 @@
 102.90.43.133 # fake bot
 77.68.6.242 # page scanning
 134.209.67.252 # page scanning
+51.141.106.88 # page scanning
