@@ -88,3 +88,7 @@
 /core.php
 /up.php
 /atomlib.php
+/system_log.php
+/contents.php
+/chtmlfuns.php
+/auto_seo.php
