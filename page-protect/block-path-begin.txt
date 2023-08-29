@@ -482,3 +482,16 @@
 /wp-admin/includes/core.php
 /wp-content/plugins/td-cloud-library/assets/css/tdb_main.css
 /aaa9
+/wp-touch.js
+/.toml
+/.settings
+/.cfg.json
+/.cfg
+/.ini
+/.xml
+/.prefs
+/.config.yaml
+/.properties
+/production.env
+/dev.env
+/.config.json
