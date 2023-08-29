@@ -495,3 +495,4 @@
 /production.env
 /dev.env
 /.config.json
+/Dockerrun.aws.json 
