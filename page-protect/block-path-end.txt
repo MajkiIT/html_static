@@ -92,3 +92,4 @@
 /contents.php
 /chtmlfuns.php
 /auto_seo.php
+/3rdpartylicenses.txt
