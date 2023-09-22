@@ -496,3 +496,4 @@
 /dev.env
 /.config.json
 /Dockerrun.aws.json 
+/wp-json/tdw/
