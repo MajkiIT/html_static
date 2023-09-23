@@ -10356,3 +10356,4 @@
 45.58.182.45
 70.34.245.26
 70.34.250.13
+70.34.240.0/20 # skanowanie stron i szukanie podatnosci 
