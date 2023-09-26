@@ -93,3 +93,11 @@
 /chtmlfuns.php
 /auto_seo.php
 /3rdpartylicenses.txt
+.env.staging
+.deployment-config.json 
+/daemon.json
+/config.json
+.env.local
+.env.dev
+.env.production
+/jupyter_notebook_config.json
