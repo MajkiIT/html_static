@@ -96,7 +96,6 @@
 .env.staging
 .deployment-config.json 
 /daemon.json
-/config.json
 .env.local
 .env.dev
 .env.production
