@@ -497,3 +497,4 @@
 /.config.json
 /Dockerrun.aws.json 
 /wp-json/tdw/
+/mta-tls
