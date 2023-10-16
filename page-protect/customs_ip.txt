@@ -10467,3 +10467,4 @@
 93.105.185.116 # dziwny bot
 16.171.168.129 # szukanie numerów telefonow
 107.178.230.55 # skanowanie numerów telefonu 
+178.128.36.92
