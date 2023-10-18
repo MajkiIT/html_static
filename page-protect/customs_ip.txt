@@ -10541,3 +10541,4 @@
 63.32.100.54 # Amazon skanowanie urle 
 91.241.35.130  # Amazon skanowanie urle 
 45.81.39.170
+147.182.150.126
