@@ -498,3 +498,4 @@
 /Dockerrun.aws.json 
 /wp-json/tdw/
 /mta-tls
+/wp-admin/css/colors/blue/blue.php
