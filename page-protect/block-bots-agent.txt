@@ -1495,3 +1495,4 @@ anthropic-ai
 Go-http-client/1.1
 quic-go HTTP/3
 Go-http-client/2.0
+my-tiny-bot
