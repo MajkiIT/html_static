@@ -500,3 +500,6 @@
 /mta-tls
 /wp-admin/css/colors/blue/blue.php
 /wp-emoji-release.min.js
+/backupdb/
+/sqldump/
+/sql/
