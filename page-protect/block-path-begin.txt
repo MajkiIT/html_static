@@ -503,3 +503,4 @@
 /backupdb/
 /sqldump/
 /sql/
+/_backups/
