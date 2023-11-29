@@ -50,7 +50,6 @@
 /asdf.php
 /behat.yml.dist
 /bitcoin
-/cdn-cgi/
 /cgi-bin/
 /cgi-mod/
 /cgi-sys/
