@@ -505,4 +505,3 @@
 /sql/
 /_backups/
 /ftp.json
-/cdn-cgi/
