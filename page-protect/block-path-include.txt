@@ -148,3 +148,5 @@ duplicator_download
 /filemanager/dialog.php
 /wpconfig.bak
 /alfa_data/
+/uc_serve/
+/uc_server/
