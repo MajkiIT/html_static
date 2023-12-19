@@ -100,3 +100,4 @@
 .env.dev
 .env.production
 /jupyter_notebook_config.json
+/wp-json
