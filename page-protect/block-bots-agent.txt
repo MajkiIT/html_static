@@ -1497,3 +1497,4 @@ quic-go HTTP/3
 Go-http-client/2.0
 my-tiny-bot
 fidget-spinner-bot
+ClaudeBot
