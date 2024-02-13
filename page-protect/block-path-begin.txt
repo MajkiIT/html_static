@@ -507,3 +507,4 @@
 /ftp.json
 /ucenter/
 /wp-content/plugins/mw-wp-form/css/admin-common.css
+/plesk-stat/
