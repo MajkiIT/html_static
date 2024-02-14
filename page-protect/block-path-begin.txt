@@ -512,3 +512,4 @@
 /gists/
 /s/login/wp-login.php
 /s/wp-login.php
+/s/login/SelfRegister/wp-login.php
