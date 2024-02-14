@@ -508,3 +508,7 @@
 /ucenter/
 /wp-content/plugins/mw-wp-form/css/admin-common.css
 /plesk-stat/
+/assets/snippets/ajaxSearch/js/
+/gists/
+/s/login/wp-login.php
+/s/wp-login.php
