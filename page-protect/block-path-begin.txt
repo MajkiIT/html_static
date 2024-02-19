@@ -513,3 +513,8 @@
 /s/login/wp-login.php
 /s/wp-login.php
 /s/login/SelfRegister/wp-login.php
+/auth/patient/pzu/login/wp-login.php
+/auth/patient/tuzdrowie/login/wp-login.php
+/auth/patient/tuzdrowie/wp-login.php
+/auth/patient/wp-login.php
+/auth/wp-login.php
