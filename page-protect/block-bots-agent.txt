@@ -1499,3 +1499,4 @@ my-tiny-bot
 fidget-spinner-bot
 ClaudeBot
 ApacheBench
+iamroot.tech
