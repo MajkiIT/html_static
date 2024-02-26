@@ -133,9 +133,4 @@
 /.bash_logout
 /.bash_profile
 .jspx
-/manager/
-/user/
-/administrator/
 /admin/users/login_do/
-/admin/
-/user/login/
