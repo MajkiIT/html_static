@@ -150,3 +150,14 @@ duplicator_download
 /alfa_data/
 /uc_serve/
 /uc_server/
+/etc/passwd
+/resin-admin/
+/_phpmyadmin/
+/services/user/values.xml
+/.rediscli_history
+/user/login/checkPermit
+/opensis/
+/data/users/admin.xml
+/db.sqlite
+/.mysql_history
+mysqli_errors.txt
