@@ -518,3 +518,6 @@
 /auth/patient/tuzdrowie/wp-login.php
 /auth/patient/wp-login.php
 /auth/wp-login.php
+/general/bi_design/
+/mgmt/
+/WEB-INF/
