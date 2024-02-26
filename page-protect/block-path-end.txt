@@ -135,7 +135,6 @@
 .jspx
 /manager/
 /user/
-/blog/
 /administrator/
 /admin/users/login_do/
 /admin/
