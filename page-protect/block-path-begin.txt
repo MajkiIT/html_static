@@ -521,3 +521,4 @@
 /general/bi_design/
 /mgmt/
 /WEB-INF/
+/wp-json/litespeed/v1/cdn_status
