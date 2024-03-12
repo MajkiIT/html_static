@@ -523,3 +523,4 @@
 /WEB-INF/
 /wp-json/litespeed/v1/cdn_status
 /semalt.com
+/.well-known/change-password
