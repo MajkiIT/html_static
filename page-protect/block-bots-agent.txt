@@ -1500,3 +1500,4 @@ fidget-spinner-bot
 ClaudeBot
 ApacheBench
 iamroot.tech
+python-httpx
