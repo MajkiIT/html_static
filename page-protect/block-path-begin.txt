@@ -524,3 +524,4 @@
 /wp-json/litespeed/v1/cdn_status
 /semalt.com
 /.well-known/change-password
+/.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200
