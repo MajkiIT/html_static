@@ -529,3 +529,4 @@
 /.well-known/trust.txt
 /.well-known/ai-plugin.json
 /.well-known/dnt-policy.txt
+/.well-known/gpc.json
