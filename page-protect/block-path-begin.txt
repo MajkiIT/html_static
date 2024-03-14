@@ -525,3 +525,7 @@
 /semalt.com
 /.well-known/change-password
 /.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200
+/.well-known/security.txt
+/.well-known/trust.txt
+/.well-known/ai-plugin.json
+/.well-known/dnt-policy.txt
