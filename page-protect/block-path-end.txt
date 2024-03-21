@@ -75,7 +75,6 @@
 /wplogin.php
 /mar.php
 /about.php
-/doc
 /doc.json
 /phpunit
 /ya.ru
