@@ -530,3 +530,4 @@
 /.well-known/ai-plugin.json
 /.well-known/dnt-policy.txt
 /.well-known/gpc.json
+/wp-content/themes/rehub-theme/icons/modulobox.svg
