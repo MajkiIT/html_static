@@ -532,3 +532,5 @@
 /.well-known/gpc.json
 /wp-content/themes/rehub-theme/icons/modulobox.svg
 /wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css
+/graphql
+/HyperGraphQL
