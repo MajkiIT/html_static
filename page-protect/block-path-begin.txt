@@ -534,3 +534,10 @@
 /wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css
 /graphql
 /HyperGraphQL
+/author/wpadminne/
+/author/wpsecuritypatch/ 
+/author/superadmin/
+/author/greeceman/
+/author/crander/
+/author/stender/ 
+/author/wpservices/
