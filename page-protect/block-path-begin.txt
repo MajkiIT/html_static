@@ -541,3 +541,4 @@
 /author/crander/
 /author/stender/ 
 /author/wpservices/
+/alfacgiapi/
