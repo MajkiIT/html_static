@@ -585,3 +585,4 @@
 /wp-content/plugins/wordpress-wpssseo/admin.php
 /wp-content/plugins/wordpresssoe/admin.php
 /wp-content/plugins/wordpresssoees/admin.php
+/search.html
