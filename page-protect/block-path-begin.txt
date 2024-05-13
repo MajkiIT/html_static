@@ -586,3 +586,4 @@
 /wp-content/plugins/wordpresssoe/admin.php
 /wp-content/plugins/wordpresssoees/admin.php
 /search.html
+/wp-content/plugins/acf-frontend-form-element/assets/js/try-pro-min.js
