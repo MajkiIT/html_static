@@ -134,3 +134,4 @@
 .jspx
 /admin/users/login_do/
 /editor/FCKeditor/editor/filemanager/browser/default/browser.html
+.tar.gz
