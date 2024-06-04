@@ -587,3 +587,12 @@
 /wp-content/plugins/wordpresssoees/admin.php
 /search.html
 /wp-content/plugins/acf-frontend-form-element/assets/js/try-pro-min.js
+/omments-post.php
+/ments-post.php
+/mments-post.php
+/uninstall.php
+/wp-limit-login.php
+/wp-links-on.php
+/wp-links-way.php
+/current.php
+/comments.php
