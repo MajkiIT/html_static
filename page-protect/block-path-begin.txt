@@ -596,3 +596,4 @@
 /wp-links-way.php
 /current.php
 /comments.php
+/404error_test.html
