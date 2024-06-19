@@ -597,3 +597,11 @@
 /current.php
 /comments.php
 /404error_test.html
+/author/w-padmine/
+/author/administratoirr/
+/author/wp-import-user/
+/author/w-padmine/
+/author/wwwadmin/
+/author/Sendsdesr/
+/author/wpadminns
+/author/stender/
