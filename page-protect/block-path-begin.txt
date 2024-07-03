@@ -605,3 +605,5 @@
 /author/Sendsdesr/
 /author/wpadminns
 /author/stender/
+/.well-known/nodeinfo
+/.well-known/webfinger
