@@ -607,3 +607,4 @@
 /author/stender/
 /.well-known/nodeinfo
 /.well-known/webfinger
+/przychodnia/przychodnia-lekarska-swiat-zdrowia-clinica-medicawp-content/uploads/2018/03/cropped-favicon_clinicamedica.png
