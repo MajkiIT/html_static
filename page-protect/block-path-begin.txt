@@ -610,3 +610,5 @@
 /przychodnia/przychodnia-lekarska-swiat-zdrowia-clinica-medicawp-content/uploads/2018/03/cropped-favicon_clinicamedica.png
 /admin123/index.php
 /files/sdk.min.js
+/adminer1.php
+/phpmyadmin.php
