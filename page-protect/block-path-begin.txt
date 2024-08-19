@@ -612,3 +612,4 @@
 /files/sdk.min.js
 /adminer1.php
 /phpmyadmin.php
+/component/users
