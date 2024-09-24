@@ -612,3 +612,4 @@
 /adminer1.php
 /phpmyadmin.php
 /component/users
+/dup-installer/
