@@ -614,3 +614,5 @@
 /component/users
 /dup-installer/
 /modules/mod_ariimageslidersa/
+/author/expander/
+/author/admim/
