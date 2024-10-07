@@ -616,3 +616,4 @@
 /modules/mod_ariimageslidersa/
 /author/expander/
 /author/admim/
+/redirect.php
