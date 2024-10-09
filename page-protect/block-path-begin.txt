@@ -617,3 +617,6 @@
 /author/expander/
 /author/admim/
 /redirect.php
+/.well-known/privacy-sandbox-attestations.json
+/.well-known/related-website-set.json
+/dsrdelete.json
