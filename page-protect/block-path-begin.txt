@@ -620,3 +620,4 @@
 /.well-known/privacy-sandbox-attestations.json
 /.well-known/related-website-set.json
 /dsrdelete.json
+/payment/index.php
