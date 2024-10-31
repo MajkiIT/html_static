@@ -621,3 +621,4 @@
 /.well-known/related-website-set.json
 /dsrdelete.json
 /payment/index.php
+/static/service_worker/
