@@ -142,3 +142,4 @@
 /get_config.php
 /_wp-config
 /wp-config-backup.txt
+/wp-rate.php
