@@ -622,3 +622,6 @@
 /dsrdelete.json
 /payment/index.php
 /static/service_worker/
+/composer.json
+/composer.lock 
+/composer.phar 
