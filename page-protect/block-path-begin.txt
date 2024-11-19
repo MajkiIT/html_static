@@ -625,3 +625,4 @@
 /composer.json
 /composer.lock 
 /composer.phar 
+/vpn/index.html
