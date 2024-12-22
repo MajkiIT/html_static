@@ -626,3 +626,6 @@
 /composer.lock 
 /composer.phar 
 /vpn/index.html
+/xfs.bxss.me
+/webtools/
+/helpdesk/WebObjects/
