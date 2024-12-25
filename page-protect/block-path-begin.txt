@@ -629,3 +629,4 @@
 /xfs.bxss.me
 /webtools/
 /helpdesk/WebObjects/
+/meta.json
