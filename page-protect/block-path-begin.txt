@@ -635,3 +635,4 @@
 /servlet/
 /_snapshot/
 /cgibin/
+/index.action
