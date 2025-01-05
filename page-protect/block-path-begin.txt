@@ -630,3 +630,8 @@
 /webtools/
 /helpdesk/WebObjects/
 /meta.json
+/axis2-admin/
+/scripts/setup.php
+/servlet/
+/_snapshot/
+/cgibin/
