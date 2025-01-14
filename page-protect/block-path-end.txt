@@ -31,7 +31,6 @@
 /status
 /php5
 .py
-/embed/
 /win.ini
 .bac
 .bz2
