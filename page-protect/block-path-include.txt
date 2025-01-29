@@ -161,3 +161,4 @@ duplicator_download
 /db.sqlite
 /.mysql_history
 mysqli_errors.txt
+/actuator/
