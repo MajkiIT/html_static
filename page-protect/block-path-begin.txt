@@ -636,3 +636,7 @@
 /_snapshot/
 /cgibin/
 /index.action
+/filemanager.php
+/tinyfilemanager.php
+/tinyfilemanager/
+/filemanager/
