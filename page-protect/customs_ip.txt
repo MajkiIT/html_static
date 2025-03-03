@@ -13250,3 +13250,6 @@
 162.251.136.0/21 #HostRoyale LLC
 185.202.168.0/22 #Colocation America Corporation
 63.246.156.0/22 #Wired ISP Inc. 
+35.247.29.115
+92.240.207.188
+13.93.35.198
