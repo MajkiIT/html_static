@@ -13244,3 +13244,9 @@
 5.196.243.99
 205.210.31.162
 178.128.96.0/20
+154.29.0.0/17 #Aventice LLC 
+198.240.64.0/18 #US Net Incorporated 
+207.32.143.16 #20 Point Networks LLC
+162.251.136.0/21 #HostRoyale LLC
+185.202.168.0/22 #Colocation America Corporation
+63.246.156.0/22 #Wired ISP Inc. 
