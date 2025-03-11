@@ -650,3 +650,5 @@
 /wp-content/themes/neuca/pharm_database.php
 /wp-content/themes/neuca/pharm_database.php
 /wp-content/themes/neuca/pharm_post_create.php
+/wp-content/themes/neuca/result1.json
+/wp-content/themes/neuca/result2.json
