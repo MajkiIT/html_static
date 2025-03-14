@@ -1512,3 +1512,4 @@ cyberscan.io
 securitee.org
 MyBot/0.1
 trafilatura
+JSACrawlerBot
