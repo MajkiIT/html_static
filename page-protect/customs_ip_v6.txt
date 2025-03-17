@@ -212,6 +212,7 @@
 # DIGITALOCEAN
 2a03:b0c0:2::/48
 #
+2602:fb54:967::
 #
 #Zscaler Hub IP Addresses
 2400:7aa0:1815::/48
