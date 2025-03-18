@@ -143,3 +143,4 @@
 /wp-config-backup.txt
 /wp-rate.php
 /dream.php
+/readme.txt
