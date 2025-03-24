@@ -9,7 +9,6 @@
 /wp-login.php
 /wp-admin
 /wordpress/
-/wp/
 /author-sitemap.xml
 /4693366.html
 /wp-links-opml.php
