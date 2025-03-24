@@ -16,5 +16,4 @@
 /wp-sitemap-users-1.xml
 /wp-includes/rss-functions.php
 /?feed
-/wp-json/wp/v2/
 /wp-json/oembed/
