@@ -144,3 +144,4 @@
 /wp-rate.php
 /dream.php
 /readme.txt
+/.git/config
