@@ -652,3 +652,4 @@
 /wp-content/themes/neuca/result1.json
 /wp-content/themes/neuca/result2.json
 /lock360.php
+/php.php
