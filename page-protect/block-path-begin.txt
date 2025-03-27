@@ -644,7 +644,6 @@
 /path-does-not-exist/
 /static/admin/css/base.css
 /.well-known/mojecertpl/verification/
-/.well-known/assetlinks.json
 /wp-content/themes/neuca/pharm.php
 /wp-content/themes/neuca/pharm_database.php
 /wp-content/themes/neuca/pharm_database.php
