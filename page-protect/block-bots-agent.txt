@@ -1514,3 +1514,4 @@ MyBot/0.1
 trafilatura
 JSACrawlerBot
 imgproxy
+ShellBot
