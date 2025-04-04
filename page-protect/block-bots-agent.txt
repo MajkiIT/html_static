@@ -1475,7 +1475,6 @@ Go-http-client/2.0
 Installatron Plugin/9.1.58/232
 Installatron Plugin
 Wget/1.20.3 (mingw32)
-newspaper/0.2.8
 Foregenix
 PhantomBot/1.0
 IonCraw
@@ -1515,3 +1514,4 @@ trafilatura
 JSACrawlerBot
 imgproxy
 ShellBot
+newspaper
