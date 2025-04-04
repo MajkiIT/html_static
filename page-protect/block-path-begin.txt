@@ -653,3 +653,9 @@
 /lock360.php
 /php.php
 /wp-admin/setup-config.php
+/.dockerignore/
+/yarn.lock
+/staging.env
+/stage.env
+/config.old.php
+/development.env
