@@ -145,3 +145,4 @@
 /dream.php
 /readme.txt
 /.git/config
+/.gitlab-ci.yml
