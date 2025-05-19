@@ -86,6 +86,7 @@
 2a0b:4140:59eb:0000:0000:0000:0000:0002
 2602:fb54:0cc8:0000:0000:0000:0000:0000
 2002:2dcf:cbf7:0000:0000:0000:2dcf:cbf7
+2002:8fc6:c539:0000:0000:0000:8fc6:c539
 # https://cdn.jsdelivr.net/gh/LittleJake/ip-blacklist/abuseipdb_blacklist_ip_score_100.txt #20250519
 2001:470:1:332::2
 2001:470:1:332::4/126
