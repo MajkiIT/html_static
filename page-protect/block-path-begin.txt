@@ -661,3 +661,4 @@
 /development.env
 /WebInterface/login.html
 /index.php/actions/
+/connexion.env
