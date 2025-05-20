@@ -660,3 +660,4 @@
 /config.old.php
 /development.env
 /WebInterface/login.html
+/index.php/actions/
