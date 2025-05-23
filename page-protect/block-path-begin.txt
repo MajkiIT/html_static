@@ -662,3 +662,7 @@
 /WebInterface/login.html
 /index.php/actions/
 /connexion.env
+/adminer2.php
+/adminer_new.php
+/public/adminer/
+/llms.txt
