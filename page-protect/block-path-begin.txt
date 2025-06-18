@@ -666,3 +666,4 @@
 /adminer_new.php
 /public/adminer/
 /llms.txt
+/FCKeditor/
