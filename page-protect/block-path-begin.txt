@@ -667,3 +667,5 @@
 /public/adminer/
 /llms.txt
 /FCKeditor/
+/xml/rss
+/rss2
