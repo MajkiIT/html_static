@@ -668,3 +668,4 @@
 /llms.txt
 /xml/rss
 /rss2
+/media/system/js/core.js
