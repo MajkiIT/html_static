@@ -1516,3 +1516,4 @@ imgproxy
 ShellBot
 newspaper
 FarmerDuckyBot
+Clarity-Bot
