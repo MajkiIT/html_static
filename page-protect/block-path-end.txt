@@ -160,3 +160,5 @@
 /aws/credentials/
 /aws/.aws
 /._env/
+/app-ads.txt
+/sellers.json
