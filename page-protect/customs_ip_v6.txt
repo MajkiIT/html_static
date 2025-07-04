@@ -229,6 +229,7 @@
 2a0f:23c7:703::103
 2a0f:ca80::49
 2c0f:f878::5
+2400:6180:100:d0::9bc:e001
 #
 #https://cdn.jsdelivr.net/gh/LittleJake/ip-blacklist/abuseipdb_blacklist_ip_score_100.txt #20250612
 2001:470:1:332::2
