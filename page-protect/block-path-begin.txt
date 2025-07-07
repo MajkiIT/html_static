@@ -671,3 +671,4 @@
 /media/system/js/core.js
 /fog/management/
 /feed.rss
+/elmah.axd
