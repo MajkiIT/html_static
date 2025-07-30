@@ -163,3 +163,4 @@
 /app-ads.txt
 /sellers.json
 /wp-includes/wlwmanifest.xml
+.map
