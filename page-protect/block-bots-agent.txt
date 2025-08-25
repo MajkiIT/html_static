@@ -1517,3 +1517,10 @@ ShellBot
 newspaper
 FarmerDuckyBot
 Clarity-Bot
+LinkpadBot
+SEOkicks-Robot
+BLEXBot
+MJ12bot
+DotBot
+PetalBot
+Baiduspider
