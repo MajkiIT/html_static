@@ -672,3 +672,4 @@
 /fog/management/
 /feed.rss
 /elmah.axd
+/skrypt_sitemap_images.php
