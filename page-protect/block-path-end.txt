@@ -165,3 +165,14 @@
 /wp-includes/wlwmanifest.xml
 .map
 .sqlite
+.jar
+.coffee
+/._env
+.lock
+.rb
+/web.config
+.project
+_history
+/environment.json
+/requirements.txt
+/parameters.yml
