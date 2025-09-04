@@ -164,3 +164,4 @@
 /sellers.json
 /wp-includes/wlwmanifest.xml
 .map
+.sqlite
