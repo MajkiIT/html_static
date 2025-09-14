@@ -1524,3 +1524,4 @@ MJ12bot
 DotBot
 PetalBot
 Baiduspider
+Flyriverbot
