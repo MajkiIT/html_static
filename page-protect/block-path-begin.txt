@@ -676,3 +676,4 @@
 /ytlogin.html
 /_phpinfo.php
 /mysql-admin/
+/phpMyAdmin
