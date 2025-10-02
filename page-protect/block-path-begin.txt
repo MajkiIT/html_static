@@ -675,3 +675,4 @@
 /skrypt_sitemap_images.php
 /ytlogin.html
 /_phpinfo.php
+/mysql-admin/
