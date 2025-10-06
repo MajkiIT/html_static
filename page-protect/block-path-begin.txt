@@ -680,3 +680,4 @@
 /jQuery-File-Upload/
 /nacos/
 /api/v2/cmdb/vpn.ssl/
+/server/php/
