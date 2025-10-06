@@ -677,3 +677,4 @@
 /_phpinfo.php
 /mysql-admin/
 /phpMyAdmin
+/jQuery-File-Upload/
