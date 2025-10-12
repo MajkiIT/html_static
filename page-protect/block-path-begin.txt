@@ -681,3 +681,5 @@
 /nacos/
 /api/v2/cmdb/vpn.ssl/
 /server/php/
+/ninjawebshell.php
+/nf_tracking.php
