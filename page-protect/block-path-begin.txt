@@ -683,3 +683,14 @@
 /server/php/
 /ninjawebshell.php
 /nf_tracking.php
+/infophp.php
+/jdbc.properties
+/db.properties
+/config.properties
+/settings.properties
+/.database.env
+/application.properties
+/app.properties
+/aws/credentials
+/karma.conf.json
+/config/credentials
