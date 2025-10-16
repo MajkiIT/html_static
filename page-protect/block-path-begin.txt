@@ -694,3 +694,7 @@
 /aws/credentials
 /karma.conf.json
 /config/credentials
+/secrets.json
+/config/config.php
+/includes/config.php
+/config/email.php
