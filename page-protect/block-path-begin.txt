@@ -698,3 +698,4 @@
 /config/config.php
 /includes/config.php
 /config/email.php
+/.database.env
