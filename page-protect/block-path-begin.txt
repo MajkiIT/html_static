@@ -699,3 +699,4 @@
 /includes/config.php
 /config/email.php
 /.database.env
+/git/
