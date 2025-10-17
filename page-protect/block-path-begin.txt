@@ -700,3 +700,9 @@
 /config/email.php
 /.database.env
 /git/
+/settings.json
+/deployment.config
+/deploy.json
+/config/ftp.json
+/.netbeans
+/ftpsync.settings
