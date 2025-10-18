@@ -706,3 +706,4 @@
 /config/ftp.json
 /.netbeans
 /ftpsync.settings
+/cdn-cgi/
