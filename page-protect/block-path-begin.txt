@@ -707,3 +707,4 @@
 /.netbeans
 /ftpsync.settings
 /cdn-cgi/
+/blog-verify
