@@ -708,3 +708,4 @@
 /ftpsync.settings
 /cdn-cgi/
 /blog-verify
+/wp/wp-login.php
