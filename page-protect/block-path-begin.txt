@@ -709,3 +709,4 @@
 /cdn-cgi/
 /blog-verify
 /wp/wp-login.php
+/wp-cli.phar
