@@ -710,3 +710,4 @@
 /blog-verify
 /wp/wp-login.php
 /wp-cli.phar
+/error_log.txt
