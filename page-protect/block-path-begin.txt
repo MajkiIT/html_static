@@ -712,3 +712,4 @@
 /wp-cli.phar
 /error_log.txt
 /manager/media/script/mootools/
+/wp-content/plugins/king-addons/
