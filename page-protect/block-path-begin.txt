@@ -713,3 +713,9 @@
 /error_log.txt
 /manager/media/script/mootools/
 /wp-content/plugins/king-addons/
+/geoserver/
+/dana-na/
+/api/v2/about
+/xml/info.xml
+/api/v1/check-version
+/dana-cached/hc/
