@@ -176,3 +176,4 @@ _history
 /environment.json
 /requirements.txt
 /parameters.yml
+.bin
