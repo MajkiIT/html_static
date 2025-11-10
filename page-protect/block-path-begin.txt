@@ -719,3 +719,4 @@
 /xml/info.xml
 /api/v1/check-version
 /dana-cached/hc/
+/_pliki_/email/
