@@ -720,3 +720,4 @@
 /api/v1/check-version
 /dana-cached/hc/
 /_pliki_/email/
+/_fragment
