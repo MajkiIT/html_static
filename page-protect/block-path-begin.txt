@@ -721,3 +721,4 @@
 /dana-cached/hc/
 /_pliki_/email/
 /_fragment
+/wp-content/plugins/yanierin/
