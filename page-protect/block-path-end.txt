@@ -177,3 +177,6 @@ _history
 /requirements.txt
 /parameters.yml
 .bin
+/class.api.php
+/wp-content/upgrade/index.php
+/wp-includes/fonts/index.php
