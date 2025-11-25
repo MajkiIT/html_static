@@ -722,3 +722,4 @@
 /_pliki_/email/
 /_fragment
 /wp-content/plugins/yanierin/
+/php_version.php
