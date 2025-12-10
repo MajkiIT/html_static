@@ -723,3 +723,6 @@
 /_fragment
 /wp-content/plugins/yanierin/
 /php_version.php
+/_vti_bin/
+/axis2/
+/vpn/
