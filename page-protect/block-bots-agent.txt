@@ -1534,3 +1534,4 @@ PMC-Crawler/FAST-2.0
 threatview.app
 IbouBot/1.0
 CMS-Checker/1.0
+SERankingBacklinksBot/1.0
