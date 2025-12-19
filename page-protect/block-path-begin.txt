@@ -726,3 +726,5 @@
 /_vti_bin/
 /axis2/
 /vpn/
+/public/vendor/laravel-filemanager/
+/vendor/laravel-filemanager/
