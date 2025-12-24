@@ -665,7 +665,6 @@
 /adminer2.php
 /adminer_new.php
 /public/adminer/
-/llms.txt
 /xml/rss
 /rss2
 /media/system/js/core.js
