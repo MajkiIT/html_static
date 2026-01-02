@@ -1536,3 +1536,4 @@ IbouBot/1.0
 CMS-Checker/1.0
 SERankingBacklinksBot/1.0
 sqalix-multi-worker
+SecurityScanner
