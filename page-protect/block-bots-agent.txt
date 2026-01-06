@@ -1538,3 +1538,4 @@ SERankingBacklinksBot/1.0
 sqalix-multi-worker
 SecurityScanner
 socketburst
+WebAuditScannerBot
