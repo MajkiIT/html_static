@@ -1539,3 +1539,4 @@ sqalix-multi-worker
 SecurityScanner
 socketburst
 WebAuditScannerBot
+ATS-Detector
