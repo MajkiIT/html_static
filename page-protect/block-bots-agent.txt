@@ -1540,3 +1540,4 @@ SecurityScanner
 socketburst
 WebAuditScannerBot
 ATS-Detector
+OdooDetector/1.0
