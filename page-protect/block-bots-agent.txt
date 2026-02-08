@@ -1541,3 +1541,4 @@ socketburst
 WebAuditScannerBot
 ATS-Detector
 OdooDetector/1.0
+ultimate_sitemap_parser
