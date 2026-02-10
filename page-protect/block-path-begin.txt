@@ -728,3 +728,4 @@
 /public/vendor/laravel-filemanager/
 /vendor/laravel-filemanager/
 /page_pagination
+/oc-panel/
