@@ -1544,3 +1544,4 @@ OdooDetector/1.0
 ultimate_sitemap_parser
 websearch-bot
 iaskspider
+Email-MX-Sorter
