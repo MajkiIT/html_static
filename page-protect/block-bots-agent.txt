@@ -1546,3 +1546,4 @@ websearch-bot
 iaskspider
 Email-MX-Sorter
 ds9 2.004.ec2
+data.dss.sps.copyright.com
