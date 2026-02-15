@@ -181,3 +181,4 @@ _history
 /wp-content/upgrade/index.php
 /wp-includes/fonts/index.php
 /htmLawedTest.php
+/ckeditor/config.js
