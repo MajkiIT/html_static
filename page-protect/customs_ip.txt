@@ -13947,3 +13947,4 @@
 83.11.156.252 #PL do wywałki
 136.0.94.0/24 #dziwne skanowanie #20260225
 143.20.219.0/24  #dziwne skanowanie #20260225
+222.167.251.0/24 #dziwne skanowanie #20260225
