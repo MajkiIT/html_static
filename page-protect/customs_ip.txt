@@ -13949,3 +13949,4 @@
 143.20.219.0/24  #dziwne skanowanie #20260225
 222.167.251.0/24 #dziwne skanowanie #20260225
 66.92.14.0/24  #dziwne skanowanie #20260225
+143.20.219.0/24 #dziwne skanowanie #20260225
