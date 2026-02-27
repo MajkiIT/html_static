@@ -90,6 +90,7 @@
 2604:a880:0000:0000:0000:0000:0000:0000/32
 2a01:7a7:2:3eb6:225:90ff:fefb:553c
 2a0e:d604:0001:0250:0000:0000:0000:0002
+2806:108e:1c:759d:3810:926c:7fff:55f4
 # https://cdn.jsdelivr.net/gh/LittleJake/ip-blacklist/abuseipdb_blacklist_ip_score_100.txt #20250519
 2001:470:1:332::2
 2001:470:1:332::4/126
