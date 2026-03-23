@@ -1552,3 +1552,4 @@ BrutalFastEmailFinder
 ModernizeBot
 MomentumFetcher
 silver.inc
+business-finder
