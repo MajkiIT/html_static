@@ -1557,3 +1557,4 @@ ultimate_sitemap_parser
 SemanticHub
 sitemapper
 semantichub
+semantichub.com
