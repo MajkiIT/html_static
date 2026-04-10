@@ -14025,3 +14025,4 @@
 94.74.80.0/20 #Huawei-Cloud-SG
 166.108.224.0/19 #Huawei-Cloud-SG
 188.239.0.0/19 #Huawei-Cloud-SG
+104.168.47.94
