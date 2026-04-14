@@ -766,3 +766,8 @@
 /api/email/settings
 /Pulumi.yaml
 /api/graphql
+/server-status.php
+/server-info.php
+/webroot/index.php/_environment
+/_environment
+/php-info.php
