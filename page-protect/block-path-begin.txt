@@ -771,3 +771,9 @@
 /webroot/index.php/_environment
 /_environment
 /php-info.php
+/docker-compose.prod.yml
+/docker-compose.production.yml
+/docker-compose.dev.yml
+/docker-compose.override.yml
+/error.txt
+/error_log
