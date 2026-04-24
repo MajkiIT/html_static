@@ -1560,3 +1560,4 @@ semantichub
 semantichub.com
 emailbot
 BlackVeil-Security-Scanner
+PriceBot
