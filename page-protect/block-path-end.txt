@@ -182,3 +182,8 @@ _history
 /wp-includes/fonts/index.php
 /htmLawedTest.php
 /ckeditor/config.js
+/__clockwork/app
+/server-info
+/api/openapi.json
+/api/swagger.json
+/console
