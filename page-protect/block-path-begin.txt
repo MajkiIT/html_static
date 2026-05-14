@@ -777,3 +777,5 @@
 /docker-compose.override.yml
 /error.txt
 /error_log
+/firebase-service-account.json
+/serviceAccountKey.json
