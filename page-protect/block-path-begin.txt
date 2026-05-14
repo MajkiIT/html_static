@@ -780,3 +780,6 @@
 /firebase-service-account.json
 /serviceAccountKey.json
 /google-service-account.json
+/.well-known/web-identity
+/.well-known/ucp
+/.well-known/webauthn
