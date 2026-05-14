@@ -779,3 +779,4 @@
 /error_log
 /firebase-service-account.json
 /serviceAccountKey.json
+/google-service-account.json
