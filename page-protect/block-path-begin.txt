@@ -783,3 +783,5 @@
 /.well-known/web-identity
 /.well-known/ucp
 /.well-known/webauthn
+/ERENUSE/
+/jancox/
