@@ -187,3 +187,4 @@ _history
 /api/openapi.json
 /api/swagger.json
 /console
+/browser/default/browser.html
